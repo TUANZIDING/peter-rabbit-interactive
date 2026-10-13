@@ -1,0 +1,1833 @@
+{
+  "schemaVersion": "1.1",
+  "chapter": {
+    "number": 3,
+    "title": "Kertyschoo!",
+    "zhTitle": "阿嚏！工具棚大逃亡",
+    "lessonTitle": "Kertyschoo!",
+    "available": true
+  },
+  "credits": {
+    "author": "Beatrix Potter",
+    "title": "The Tale of Peter Rabbit",
+    "source": "https://www.gutenberg.org/ebooks/14838",
+    "illustration": "AI-generated; supplied by the project owner"
+  },
+  "assets": {
+    "panel1": {
+      "webp": "img/ch03-panel1v1.0.webp",
+      "jpg": "img/ch03-panel1v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得跳进工具棚的喷壶",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel2": {
+      "webp": "img/ch03-panel2v1.0.webp",
+      "jpg": "img/ch03-panel2v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "麦格雷戈先生翻花盆寻找彼得",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel3": {
+      "webp": "img/ch03-panel3v1.0.webp",
+      "jpg": "img/ch03-panel3v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得在喷壶里打喷嚏",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel4": {
+      "webp": "img/ch03-panel4v1.0.webp",
+      "jpg": "img/ch03-panel4v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得从窗户跳出工具棚",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel5": {
+      "webp": "img/ch03-panel5v1.0.webp",
+      "jpg": "img/ch03-panel5v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得向含着豌豆的小老鼠问路",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel6": {
+      "webp": "img/ch03-panel6v1.0.webp",
+      "jpg": "img/ch03-panel6v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得遇见池塘边的白猫",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "spread": {
+      "webp": "img/ch03-spreadv1.0.webp",
+      "jpg": "img/ch03-spreadv1.0.jpg",
+      "width": 1200,
+      "height": 848,
+      "alt": "找物大场景：老鼠、蜘蛛、手套、水管、耙子、花盆",
+      "originalSize": [
+        1200,
+        848
+      ]
+    },
+    "shed": {
+      "webp": "img/ch03-shedv1.0.webp",
+      "jpg": "img/ch03-shedv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "工具棚单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "can": {
+      "webp": "img/ch03-canv1.0.webp",
+      "jpg": "img/ch03-canv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "喷壶单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "window": {
+      "webp": "img/ch03-windowv1.0.webp",
+      "jpg": "img/ch03-windowv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "窗户单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "mouse": {
+      "webp": "img/ch03-mousev1.0.webp",
+      "jpg": "img/ch03-mousev1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "老鼠单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "cat": {
+      "webp": "img/ch03-catv1.0.webp",
+      "jpg": "img/ch03-catv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "猫单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    }
+  },
+  "comic": {
+    "panels": [
+      {
+        "id": "p1",
+        "image": "panel1"
+      },
+      {
+        "id": "p2",
+        "image": "panel2"
+      },
+      {
+        "id": "p3",
+        "image": "panel3"
+      },
+      {
+        "id": "p4",
+        "image": "panel4"
+      },
+      {
+        "id": "p5",
+        "image": "panel5"
+      },
+      {
+        "id": "p6",
+        "image": "panel6"
+      }
+    ],
+    "bubbles": [
+      {
+        "id": "b01",
+        "panel": "p1",
+        "lines": [
+          "Quick! Into the *can*!"
+        ],
+        "text": "Quick! Into the can!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 28,
+          "top": 5,
+          "width": 53,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 28,
+          "top": 5,
+          "width": 53,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 28.000000000000004,
+          "top": 8.88718267855267,
+          "width": 44.50515920400637,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 50.0,
+          "y": 36.0
+        },
+        "fontScale": 1.0,
+        "audio": "b01",
+        "source": {
+          "fx": 0.28,
+          "fy": 0.2,
+          "w": 118,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b02",
+        "panel": "p2",
+        "lines": [
+          "Where is that rabbit?"
+        ],
+        "text": "Where is that rabbit?",
+        "speaker": "MCG",
+        "rect": {
+          "left": 42,
+          "top": 5,
+          "width": 52,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 42,
+          "top": 5,
+          "width": 52,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 42.0,
+          "top": 6.887182678552667,
+          "width": 46.76813340082025,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 70.0,
+          "y": 32.0
+        },
+        "fontScale": 1.0,
+        "audio": "b02",
+        "source": {
+          "fx": 0.42,
+          "fy": 0.18,
+          "w": 124,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b03",
+        "panel": "p3",
+        "lines": [
+          "Aha! There you are!"
+        ],
+        "text": "Aha! There you are!",
+        "speaker": "MCG",
+        "rect": {
+          "left": 58,
+          "top": 4,
+          "width": 40,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 58,
+          "top": 4,
+          "width": 40,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 60.0,
+          "top": 7.8871826785526675,
+          "width": 37.71623661356472,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 86.0,
+          "y": 34.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b03",
+        "source": {
+          "fx": 0.6,
+          "fy": 0.19,
+          "w": 100,
+          "h": 22,
+          "size": 10
+        }
+      },
+      {
+        "id": "b04",
+        "panel": "p4",
+        "lines": [
+          "Out of the *window*!"
+        ],
+        "text": "Out of the window!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 49,
+          "top": 5,
+          "width": 49,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 49,
+          "top": 5,
+          "width": 49,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 48.0,
+          "top": 8.88718267855267,
+          "width": 44.50515920400637,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 74.0,
+          "y": 38.0
+        },
+        "fontScale": 1.0,
+        "audio": "b04",
+        "source": {
+          "fx": 0.48,
+          "fy": 0.2,
+          "w": 118,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b05",
+        "panel": "p4",
+        "lines": [
+          "Come back!"
+        ],
+        "text": "Come back!",
+        "speaker": "MCG",
+        "rect": {
+          "left": 3.0,
+          "top": 8.88718267855267,
+          "width": 27.155690361766595,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 3.0,
+          "top": 8.88718267855267,
+          "width": 27.155690361766595,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 3.0,
+          "top": 8.88718267855267,
+          "width": 27.155690361766595,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 26.0,
+          "y": 32.0
+        },
+        "fontScale": 1.0,
+        "audio": "b05",
+        "source": {
+          "fx": 0.03,
+          "fy": 0.2,
+          "w": 72,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b06",
+        "panel": "p5",
+        "lines": [
+          "*Mouse*! *Mouse*!",
+          "Where is the gate?"
+        ],
+        "text": "Mouse! Mouse! Where is the gate?",
+        "speaker": "PETER",
+        "rect": {
+          "left": 11,
+          "top": 4,
+          "width": 45,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 11,
+          "top": 4,
+          "width": 45,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 2.0,
+          "top": 4.825645957763214,
+          "width": 42.24218500719248,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 25.0,
+          "y": 38.0
+        },
+        "fontScale": 1.0,
+        "audio": "b06",
+        "source": {
+          "fx": 0.02,
+          "fy": 0.22,
+          "w": 112,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b07",
+        "panel": "p5",
+        "lines": [
+          "Mmm-mmm!"
+        ],
+        "text": "Mmm-mmm!",
+        "speaker": "MOUSE",
+        "rect": {
+          "left": 60.0,
+          "top": 18.887182678552666,
+          "width": 30.17298929085177,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 60.0,
+          "top": 18.887182678552666,
+          "width": 30.17298929085177,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 60.0,
+          "top": 18.887182678552666,
+          "width": 30.17298929085177,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 72.0,
+          "y": 42.0
+        },
+        "fontScale": 1.0,
+        "audio": "b07",
+        "source": {
+          "fx": 0.6,
+          "fy": 0.3,
+          "w": 80,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b08",
+        "panel": "p6",
+        "lines": [
+          "Oh no! A white *cat*!"
+        ],
+        "text": "Oh no! A white cat!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 11,
+          "top": 3,
+          "width": 49,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 11,
+          "top": 3,
+          "width": 49,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 2.0,
+          "top": 10.887182678552668,
+          "width": 43.750834471735075,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 30.0,
+          "y": 40.0
+        },
+        "fontScale": 1.0,
+        "audio": "b08",
+        "source": {
+          "fx": 0.02,
+          "fy": 0.22,
+          "w": 116,
+          "h": 22,
+          "size": 11
+        }
+      }
+    ],
+    "sfx": [
+      {
+        "panel": "p1",
+        "x": 70,
+        "y": 84,
+        "text": "SPLASH!"
+      },
+      {
+        "panel": "p3",
+        "x": 23,
+        "y": 26,
+        "text": "KERTYSCHOO!"
+      },
+      {
+        "panel": "p4",
+        "x": 66.0,
+        "y": 84,
+        "text": "CRASH!"
+      },
+      {
+        "panel": "p5",
+        "x": 47.0,
+        "y": 64.0,
+        "text": "SOB!"
+      }
+    ],
+    "basis": [
+      265.1378,
+      197.9696
+    ],
+    "story": [
+      "彼得躲进工具棚的喷壶里，麦格雷戈先生翻遍花盆找他。“阿嚏！”彼得一个大喷嚏，被发现了！",
+      "他从窗户跳出去逃走，却迷了路，坐在锁着的门前哭。小老鼠含着豌豆没法回答，池塘边还有一只白猫……"
+    ]
+  },
+  "findIt": {
+    "image": "spread",
+    "targets": [
+      {
+        "id": "mouse",
+        "en": "mouse",
+        "zh": "老鼠",
+        "audio": "ui-find-mouse",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 28.749999999999996,
+            "y": 62.85377358490566,
+            "w": 6.083333333333334,
+            "h": 8.962264150943396
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "spider",
+        "en": "spider",
+        "zh": "蜘蛛",
+        "audio": "ui-find-spider",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 27.333333333333332,
+            "y": 8.84433962264151,
+            "w": 4.916666666666666,
+            "h": 7.547169811320755
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "gloves",
+        "en": "gloves",
+        "zh": "手套",
+        "audio": "ui-find-gloves",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 15.333333333333332,
+            "y": 63.443396226415096,
+            "w": 8.666666666666668,
+            "h": 12.617924528301888
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "hose",
+        "en": "hose",
+        "zh": "水管",
+        "audio": "ui-find-hose",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 24.583333333333332,
+            "y": 26.88679245283019,
+            "w": 8.916666666666668,
+            "h": 29.599056603773583
+          },
+          {
+            "shape": "ellipse",
+            "x": 2.3333333333333335,
+            "y": 64.97641509433963,
+            "w": 12.25,
+            "h": 23.702830188679243
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "rake",
+        "en": "rake",
+        "zh": "耙子",
+        "audio": "ui-find-rake",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 90.0,
+            "y": 22.87735849056604,
+            "w": 9.833333333333332,
+            "h": 14.268867924528303
+          },
+          {
+            "shape": "rect",
+            "x": 90.0,
+            "y": 35.96698113207547,
+            "w": 7.583333333333334,
+            "h": 24.64622641509434
+          },
+          {
+            "shape": "rect",
+            "x": 83.16666666666667,
+            "y": 80.54245283018868,
+            "w": 8.666666666666668,
+            "h": 8.254716981132075
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "pot",
+        "en": "pot",
+        "zh": "花盆",
+        "audio": "ui-find-pot",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 45.666666666666664,
+            "y": 25.825471698113205,
+            "w": 5.833333333333333,
+            "h": 7.311320754716981
+          },
+          {
+            "shape": "rect",
+            "x": 51.74999999999999,
+            "y": 25.117924528301888,
+            "w": 5.833333333333333,
+            "h": 7.900943396226415
+          },
+          {
+            "shape": "rect",
+            "x": 67.91666666666667,
+            "y": 27.122641509433965,
+            "w": 5.833333333333333,
+            "h": 6.367924528301887
+          },
+          {
+            "shape": "rect",
+            "x": 64.66666666666666,
+            "y": 53.891509433962256,
+            "w": 5.666666666666666,
+            "h": 7.193396226415095
+          },
+          {
+            "shape": "rect",
+            "x": 81.5,
+            "y": 50.82547169811321,
+            "w": 9.25,
+            "h": 13.20754716981132
+          },
+          {
+            "shape": "rect",
+            "x": 0.0,
+            "y": 86.20283018867924,
+            "w": 7.249999999999999,
+            "h": 12.735849056603774
+          },
+          {
+            "shape": "rect",
+            "x": 95.0,
+            "y": 72.75943396226415,
+            "w": 5.0,
+            "h": 13.797169811320757
+          },
+          {
+            "shape": "rect",
+            "x": 34.66666666666667,
+            "y": 41.62735849056604,
+            "w": 2.3333333333333335,
+            "h": 6.839622641509433
+          },
+          {
+            "shape": "rect",
+            "x": 95.25,
+            "y": 5.188679245283019,
+            "w": 4.75,
+            "h": 6.9575471698113205
+          }
+        ],
+        "visible": true
+      }
+    ],
+    "coordinateSystem": "percent from image top-left",
+    "toleranceCssPx": 14,
+    "omitted": [],
+    "crop": {
+      "x": 0,
+      "y": 0,
+      "w": 1200,
+      "h": 848
+    },
+    "decorations": [
+      {
+        "x": 0.4,
+        "y": 3.3,
+        "w": 22.2,
+        "h": 11.2,
+        "text": "LOOK!"
+      },
+      {
+        "x": 69.4,
+        "y": 89.2,
+        "w": 30.6,
+        "h": 8.6,
+        "text": "FIND 6"
+      }
+    ]
+  },
+  "vocabulary": {
+    "cards": [
+      {
+        "id": "shed",
+        "word": "shed",
+        "ipa": "/ʃed/",
+        "sourceZh": "工具棚",
+        "zh": "工具棚",
+        "example": "This is a shed.",
+        "image": "shed",
+        "audio": "w-shed",
+        "exampleAudio": "w-shed-ex"
+      },
+      {
+        "id": "can",
+        "word": "can",
+        "ipa": "/kæn/",
+        "sourceZh": "喷壶",
+        "zh": "喷壶（watering can）",
+        "example": "Peter is in the can.",
+        "image": "can",
+        "audio": "w-can",
+        "exampleAudio": "w-can-ex"
+      },
+      {
+        "id": "window",
+        "word": "window",
+        "ipa": "/ˈwɪndəʊ/",
+        "sourceZh": "窗户",
+        "zh": "窗户",
+        "example": "Jump out of the window!",
+        "image": "window",
+        "audio": "w-window",
+        "exampleAudio": "w-window-ex"
+      },
+      {
+        "id": "mouse",
+        "word": "mouse",
+        "ipa": "/maʊs/",
+        "sourceZh": "老鼠",
+        "zh": "老鼠",
+        "example": "The mouse has a pea.",
+        "image": "mouse",
+        "audio": "w-mouse",
+        "exampleAudio": "w-mouse-ex"
+      },
+      {
+        "id": "cat",
+        "word": "cat",
+        "ipa": "/kæt/",
+        "sourceZh": "猫",
+        "zh": "猫",
+        "example": "The cat is white.",
+        "image": "cat",
+        "audio": "w-cat",
+        "exampleAudio": "w-cat-ex"
+      }
+    ],
+    "extra": [
+      {
+        "word": "shed",
+        "ipa": "/ʃed/",
+        "pos": "n.",
+        "zh": "工具棚"
+      },
+      {
+        "word": "can",
+        "ipa": "/kæn/",
+        "pos": "n.",
+        "zh": "喷壶"
+      },
+      {
+        "word": "window",
+        "ipa": "/ˈwɪndəʊ/",
+        "pos": "n.",
+        "zh": "窗户"
+      },
+      {
+        "word": "mouse",
+        "ipa": "/maʊs/",
+        "pos": "n.",
+        "zh": "老鼠"
+      },
+      {
+        "word": "cat",
+        "ipa": "/kæt/",
+        "pos": "n.",
+        "zh": "猫"
+      },
+      {
+        "word": "sneeze",
+        "ipa": "/sniːz/",
+        "pos": "v.",
+        "zh": "打喷嚏"
+      },
+      {
+        "word": "jump",
+        "ipa": "/dʒʌmp/",
+        "pos": "v.",
+        "zh": "跳"
+      },
+      {
+        "word": "white",
+        "ipa": "/waɪt/",
+        "pos": "adj.",
+        "zh": "白色的"
+      },
+      {
+        "word": "pea",
+        "ipa": "/piː/",
+        "pos": "n.",
+        "zh": "豌豆"
+      },
+      {
+        "word": "gate",
+        "ipa": "/ɡeɪt/",
+        "pos": "n.",
+        "zh": "大门"
+      },
+      {
+        "word": "pond",
+        "ipa": "/pɒnd/",
+        "pos": "n.",
+        "zh": "池塘"
+      },
+      {
+        "word": "cry",
+        "ipa": "/kraɪ/",
+        "pos": "v.",
+        "zh": "哭"
+      }
+    ],
+    "variants": {},
+    "variantIpa": {}
+  },
+  "theater": {
+    "image": "panel6",
+    "intro": [
+      "这是新概念第13课的句型！",
+      "把 dress 换成 cat："
+    ],
+    "title": "What colour is the cat?",
+    "bubbles": [
+      {
+        "id": "tb1",
+        "lines": [
+          "What colour is",
+          "the *cat*?"
+        ],
+        "rect": {
+          "left": 2.6666666666666665,
+          "top": 3.571428571428571,
+          "width": 45.333333333333336,
+          "height": 16.07142857142857
+        },
+        "sourceTail": {
+          "x": 27.333333333333332,
+          "y": 41.07142857142857
+        },
+        "tail": {
+          "x": 27.333333333333332,
+          "y": 41.07142857142857
+        },
+        "audio": "tb1"
+      },
+      {
+        "id": "tb2",
+        "lines": [
+          "It's white. Meow!"
+        ],
+        "rect": {
+          "left": 52.0,
+          "top": 4.4642857142857135,
+          "width": 33.333333333333336,
+          "height": 13.392857142857142
+        },
+        "sourceTail": {
+          "x": 83.33333333333333,
+          "y": 29.46428571428571
+        },
+        "tail": {
+          "x": 83.33333333333333,
+          "y": 29.46428571428571
+        },
+        "audio": "tb2"
+      }
+    ],
+    "lines": [
+      {
+        "en": "What colour is the cat?",
+        "speaker": "PETER",
+        "audio": "t01"
+      },
+      {
+        "en": "It's white.",
+        "speaker": "CAT",
+        "audio": "t02"
+      },
+      {
+        "en": "What colour is the can?",
+        "speaker": "PETER",
+        "audio": "t03"
+      },
+      {
+        "en": "It's green.",
+        "speaker": "NARR",
+        "audio": "t04"
+      }
+    ],
+    "referenceImage": "can",
+    "referenceCaption": "Green can · 绿色喷壶",
+    "practiceNote": ""
+  },
+  "lesson": [
+    {
+      "id": "l01",
+      "speaker": "NARR",
+      "en": "Peter runs into a shed.",
+      "zh": "彼得跑进一个工具棚。",
+      "audio": "l01"
+    },
+    {
+      "id": "l02",
+      "speaker": "NARR",
+      "en": "He jumps into a can.",
+      "zh": "他跳进一个喷壶里。",
+      "audio": "l02"
+    },
+    {
+      "id": "l03",
+      "speaker": "MCG",
+      "en": "Where is that rabbit?",
+      "zh": "那只兔子在哪儿？",
+      "audio": "l03"
+    },
+    {
+      "id": "l04",
+      "speaker": "PETER",
+      "en": "Kertyschoo!",
+      "zh": "阿嚏！",
+      "audio": "l04"
+    },
+    {
+      "id": "l05",
+      "speaker": "MCG",
+      "en": "Aha! There you are!",
+      "zh": "哈！原来你在这儿！",
+      "audio": "l05"
+    },
+    {
+      "id": "l06",
+      "speaker": "NARR",
+      "en": "Peter jumps out of the window.",
+      "zh": "彼得从窗户跳了出去。",
+      "audio": "l06"
+    },
+    {
+      "id": "l07",
+      "speaker": "PETER",
+      "en": "Where is the gate?",
+      "zh": "大门在哪儿？",
+      "audio": "l07"
+    },
+    {
+      "id": "l08",
+      "speaker": "NARR",
+      "en": "A little mouse has a pea.",
+      "zh": "一只小老鼠嘴里含着一颗豌豆。",
+      "audio": "l08"
+    },
+    {
+      "id": "l09",
+      "speaker": "NARR",
+      "en": "Look! A white cat!",
+      "zh": "看！一只白猫！",
+      "audio": "l09"
+    },
+    {
+      "id": "l10",
+      "speaker": "PETER",
+      "en": "Oh no! Run, Peter, run!",
+      "zh": "哎呀！快跑，彼得，快跑！",
+      "audio": "l10"
+    }
+  ],
+  "act": [
+    {
+      "speaker": "MCG",
+      "en": "Where is that rabbit?",
+      "audio": "a01"
+    },
+    {
+      "speaker": "PETER",
+      "en": "Kertyschoo!",
+      "audio": "a02"
+    },
+    {
+      "speaker": "MCG",
+      "en": "Aha! There you are!",
+      "audio": "a03"
+    },
+    {
+      "speaker": "PETER",
+      "en": "Bye-bye! Out of the window!",
+      "audio": "a04"
+    }
+  ],
+  "actLabel": "爸爸演麦格雷戈，我演彼得",
+  "actorRoles": [
+    "PETER",
+    "MCG"
+  ],
+  "homework": {
+    "panels": [
+      {
+        "id": "h1",
+        "panel": "p1",
+        "lines": [
+          "Quick! Into",
+          "the ________!"
+        ],
+        "answers": [
+          "can"
+        ],
+        "displayAnswers": [
+          "can"
+        ],
+        "rect": {
+          "left": 28,
+          "top": 3,
+          "width": 52
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.28,
+          "fy": 0.24,
+          "w": 118,
+          "tail": [
+            0.5,
+            0.36
+          ]
+        }
+      },
+      {
+        "id": "h2",
+        "panel": "p4",
+        "lines": [
+          "Out of the",
+          "________!"
+        ],
+        "answers": [
+          "window"
+        ],
+        "displayAnswers": [
+          "window"
+        ],
+        "rect": {
+          "left": 48,
+          "top": 3,
+          "width": 50
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.48,
+          "fy": 0.24,
+          "w": 112,
+          "tail": [
+            0.74,
+            0.38
+          ]
+        }
+      },
+      {
+        "id": "h3",
+        "panel": "p5",
+        "lines": [
+          "________! Where",
+          "is the gate?"
+        ],
+        "answers": [
+          "Mouse"
+        ],
+        "displayAnswers": [
+          "Mouse"
+        ],
+        "rect": {
+          "left": 2,
+          "top": 3,
+          "width": 47
+        },
+        "caption": "句首用大写 Mouse。",
+        "source": {
+          "fx": 0.02,
+          "fy": 0.24,
+          "w": 128,
+          "tail": [
+            0.25,
+            0.38
+          ]
+        }
+      },
+      {
+        "id": "h4",
+        "panel": "p6",
+        "lines": [
+          "Oh no! A white",
+          "________!"
+        ],
+        "answers": [
+          "cat"
+        ],
+        "displayAnswers": [
+          "cat"
+        ],
+        "rect": {
+          "left": 2,
+          "top": 3,
+          "width": 48
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.02,
+          "fy": 0.24,
+          "w": 120,
+          "tail": [
+            0.3,
+            0.4
+          ]
+        }
+      }
+    ],
+    "wordbox": [
+      "shed",
+      "can",
+      "window",
+      "mouse",
+      "cat"
+    ],
+    "forms": {},
+    "answersSource": "Answers: 1 can 2 window 3 Mouse 4 cat | shed, can, window, mouse, cat | Yes/No: Yes, No, No, Yes"
+  },
+  "paperHomework": {
+    "questions": [
+      {
+        "zh": "1. 彼得在工具棚里。",
+        "template": "Peter is in the __________ ."
+      },
+      {
+        "zh": "2. 他跳进一个喷壶里。",
+        "template": "He jumps into a __________ ."
+      },
+      {
+        "zh": "3. 彼得从窗户跳出去。",
+        "template": "Peter jumps out of the __________ ."
+      },
+      {
+        "zh": "4. 小老鼠有一颗豌豆。",
+        "template": "The __________ has a pea."
+      },
+      {
+        "zh": "5. 这只猫是白色的。",
+        "template": "The __________ is white."
+      }
+    ],
+    "prompt": "现在去完成纸质作业里的中译英：先说出来，再写下来。"
+  },
+  "audio": {
+    "b01": {
+      "src": "audio/ch03/b01v1.0.mp3",
+      "text": "Quick! Into the can!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.530875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b02": {
+      "src": "audio/ch03/b02v1.0.mp3",
+      "text": "Where is that rabbit?",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.730208,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b03": {
+      "src": "audio/ch03/b03v1.0.mp3",
+      "text": "Aha! There you are!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.528583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b04": {
+      "src": "audio/ch03/b04v1.0.mp3",
+      "text": "Out of the window!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.327167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b05": {
+      "src": "audio/ch03/b05v1.0.mp3",
+      "text": "Come back!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.9675,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b06": {
+      "src": "audio/ch03/b06v1.0.mp3",
+      "text": "Mouse! Mouse! Where is the gate?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.497958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b07": {
+      "src": "audio/ch03/b07v1.0.mp3",
+      "text": "Mmm-mmm!",
+      "speaker": "MOUSE",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.467583,
+      "engine": "kokoro-onnx",
+      "voice": "bf_isabella",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b08": {
+      "src": "audio/ch03/b08v1.0.mp3",
+      "text": "Oh no! A white cat!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.756958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-shed": {
+      "src": "audio/ch03/w-shedv1.0.mp3",
+      "text": "shed",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.581667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-shed-ex": {
+      "src": "audio/ch03/w-shed-exv1.0.mp3",
+      "text": "This is a shed.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.361625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-can": {
+      "src": "audio/ch03/w-canv1.0.mp3",
+      "text": "can",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.702292,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-can-ex": {
+      "src": "audio/ch03/w-can-exv1.0.mp3",
+      "text": "Peter is in the can.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.84025,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-window": {
+      "src": "audio/ch03/w-windowv1.0.mp3",
+      "text": "window",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.745958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-window-ex": {
+      "src": "audio/ch03/w-window-exv1.0.mp3",
+      "text": "Jump out of the window!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.610167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-mouse": {
+      "src": "audio/ch03/w-mousev1.0.mp3",
+      "text": "mouse",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.676917,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-mouse-ex": {
+      "src": "audio/ch03/w-mouse-exv1.0.mp3",
+      "text": "The mouse has a pea.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.769667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-cat": {
+      "src": "audio/ch03/w-catv1.0.mp3",
+      "text": "cat",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.58625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-cat-ex": {
+      "src": "audio/ch03/w-cat-exv1.0.mp3",
+      "text": "The cat is white.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.526292,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-mouse": {
+      "src": "audio/ch03/ui-find-mousev1.0.mp3",
+      "text": "Find the mouse!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.020875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-spider": {
+      "src": "audio/ch03/ui-find-spiderv1.0.mp3",
+      "text": "Find the spider!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.245958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-gloves": {
+      "src": "audio/ch03/ui-find-glovesv1.0.mp3",
+      "text": "Find the gloves!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.160625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-hose": {
+      "src": "audio/ch03/ui-find-hosev1.0.mp3",
+      "text": "Find the hose!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.14725,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-rake": {
+      "src": "audio/ch03/ui-find-rakev1.0.mp3",
+      "text": "Find the rake!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.082958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-pot": {
+      "src": "audio/ch03/ui-find-potv1.0.mp3",
+      "text": "Find the pot!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.037875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l01": {
+      "src": "audio/ch03/l01v1.0.mp3",
+      "text": "Peter runs into a shed.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.090417,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l02": {
+      "src": "audio/ch03/l02v1.0.mp3",
+      "text": "He jumps into a can.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.653667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l03": {
+      "src": "audio/ch03/l03v1.0.mp3",
+      "text": "Where is that rabbit?",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.730208,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l04": {
+      "src": "audio/ch03/l04v1.0.mp3",
+      "text": "Kertyschoo!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.003875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l05": {
+      "src": "audio/ch03/l05v1.0.mp3",
+      "text": "Aha! There you are!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.528583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l06": {
+      "src": "audio/ch03/l06v1.0.mp3",
+      "text": "Peter jumps out of the window.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.224958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l07": {
+      "src": "audio/ch03/l07v1.0.mp3",
+      "text": "Where is the gate?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.499333,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l08": {
+      "src": "audio/ch03/l08v1.0.mp3",
+      "text": "A little mouse has a pea.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.129333,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l09": {
+      "src": "audio/ch03/l09v1.0.mp3",
+      "text": "Look! A white cat!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.552792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l10": {
+      "src": "audio/ch03/l10v1.0.mp3",
+      "text": "Oh no! Run, Peter, run!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.316,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t01": {
+      "src": "audio/ch03/t01v1.0.mp3",
+      "text": "What colour is the cat?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.701583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t02": {
+      "src": "audio/ch03/t02v1.0.mp3",
+      "text": "It's white.",
+      "speaker": "CAT",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.085042,
+      "engine": "kokoro-onnx",
+      "voice": "bf_lily",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t03": {
+      "src": "audio/ch03/t03v1.0.mp3",
+      "text": "What colour is the can?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.677708,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t04": {
+      "src": "audio/ch03/t04v1.0.mp3",
+      "text": "It's green.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.937958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb1": {
+      "src": "audio/ch03/tb1v1.0.mp3",
+      "text": "What colour is the cat?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.701583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb2": {
+      "src": "audio/ch03/tb2v1.0.mp3",
+      "text": "It's white. Meow!",
+      "speaker": "CAT",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.619167,
+      "engine": "kokoro-onnx",
+      "voice": "bf_lily",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a01": {
+      "src": "audio/ch03/a01v1.0.mp3",
+      "text": "Where is that rabbit?",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.730208,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a02": {
+      "src": "audio/ch03/a02v1.0.mp3",
+      "text": "Kertyschoo!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.003875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a03": {
+      "src": "audio/ch03/a03v1.0.mp3",
+      "text": "Aha! There you are!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.528583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a04": {
+      "src": "audio/ch03/a04v1.0.mp3",
+      "text": "Bye-bye! Out of the window!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.993958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-start": {
+      "src": "audio/ch03/ui-startv1.0.mp3",
+      "text": "Let's read together!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.491792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-well-done": {
+      "src": "audio/ch03/ui-well-donev1.0.mp3",
+      "text": "Well done!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.886583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-try-again": {
+      "src": "audio/ch03/ui-try-againv1.0.mp3",
+      "text": "Try again!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.031625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-your-turn": {
+      "src": "audio/ch03/ui-your-turnv1.0.mp3",
+      "text": "Your turn!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.994167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-finish": {
+      "src": "audio/ch03/ui-finishv1.0.mp3",
+      "text": "Well done! Now it is time for your paper homework.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 3.178125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-rest": {
+      "src": "audio/ch03/ui-restv1.0.mp3",
+      "text": "Great reading! Time for a little break.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.643625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    }
+  },
+  "voiceConfig": {
+    "CAT": [
+      "bf_lily",
+      0.85,
+      1.1
+    ],
+    "MCG": [
+      "bm_daniel",
+      0.8,
+      0.88
+    ],
+    "MOUSE": [
+      "bf_isabella",
+      0.85,
+      1.4
+    ],
+    "NARR": [
+      "bm_george",
+      0.88,
+      1.0
+    ],
+    "PETER": [
+      "bm_lewis",
+      0.85,
+      1.25
+    ]
+  }
+}

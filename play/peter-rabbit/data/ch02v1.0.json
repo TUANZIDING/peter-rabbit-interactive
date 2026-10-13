@@ -1,0 +1,1792 @@
+{
+  "schemaVersion": "1.1",
+  "chapter": {
+    "number": 2,
+    "title": "Stop, Thief!",
+    "zhTitle": "站住，小偷！",
+    "lessonTitle": "Stop, Thief!",
+    "available": true
+  },
+  "credits": {
+    "author": "Beatrix Potter",
+    "title": "The Tale of Peter Rabbit",
+    "source": "https://www.gutenberg.org/ebooks/14838",
+    "illustration": "AI-generated; supplied by the project owner"
+  },
+  "assets": {
+    "panel1": {
+      "webp": "img/ch02-panel1v1.0.webp",
+      "jpg": "img/ch02-panel1v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得撞见在菜园里的麦格雷戈先生",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel2": {
+      "webp": "img/ch02-panel2v1.0.webp",
+      "jpg": "img/ch02-panel2v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "麦格雷戈先生举耙追赶彼得",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel3": {
+      "webp": "img/ch02-panel3v1.0.webp",
+      "jpg": "img/ch02-panel3v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得跑过菜地，丢掉两只鞋",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel4": {
+      "webp": "img/ch02-panel4v1.0.webp",
+      "jpg": "img/ch02-panel4v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得的外套扣子挂在网上",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel5": {
+      "webp": "img/ch02-panel5v1.0.webp",
+      "jpg": "img/ch02-panel5v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "三只麻雀给被困的彼得鼓劲",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel6": {
+      "webp": "img/ch02-panel6v1.0.webp",
+      "jpg": "img/ch02-panel6v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得挣脱外套，躲过麦格雷戈先生的筛子",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "spread": {
+      "webp": "img/ch02-spreadv1.0.webp",
+      "jpg": "img/ch02-spreadv1.0.jpg",
+      "width": 1200,
+      "height": 848,
+      "alt": "找物大场景：知更鸟、蜗牛、蝴蝶、鞋、麻雀、独轮车",
+      "originalSize": [
+        1200,
+        848
+      ]
+    },
+    "rake": {
+      "webp": "img/ch02-rakev1.0.webp",
+      "jpg": "img/ch02-rakev1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "耙子单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "shoe": {
+      "webp": "img/ch02-shoev1.0.webp",
+      "jpg": "img/ch02-shoev1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "鞋单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "button": {
+      "webp": "img/ch02-buttonv1.0.webp",
+      "jpg": "img/ch02-buttonv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "扣子单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "jacket": {
+      "webp": "img/ch02-jacketv1.0.webp",
+      "jpg": "img/ch02-jacketv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "外套单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    },
+    "sparrow": {
+      "webp": "img/ch02-sparrowv1.0.webp",
+      "jpg": "img/ch02-sparrowv1.0.jpg",
+      "width": 600,
+      "height": 600,
+      "alt": "麻雀单词图",
+      "originalSize": [
+        600,
+        600
+      ]
+    }
+  },
+  "comic": {
+    "panels": [
+      {
+        "id": "p1",
+        "image": "panel1"
+      },
+      {
+        "id": "p2",
+        "image": "panel2"
+      },
+      {
+        "id": "p3",
+        "image": "panel3"
+      },
+      {
+        "id": "p4",
+        "image": "panel4"
+      },
+      {
+        "id": "p5",
+        "image": "panel5"
+      },
+      {
+        "id": "p6",
+        "image": "panel6"
+      }
+    ],
+    "bubbles": [
+      {
+        "id": "b01",
+        "panel": "p1",
+        "lines": [
+          "Oh no! A man!"
+        ],
+        "text": "Oh no! A man!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 9.0,
+          "top": 7.8871826785526675,
+          "width": 31.68163875539436,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 9.0,
+          "top": 7.8871826785526675,
+          "width": 31.68163875539436,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 9.0,
+          "top": 7.8871826785526675,
+          "width": 31.68163875539436,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 22.0,
+          "y": 42.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b01",
+        "source": {
+          "fx": 0.09,
+          "fy": 0.19,
+          "w": 84,
+          "h": 22,
+          "size": 10
+        }
+      },
+      {
+        "id": "b02",
+        "panel": "p1",
+        "lines": [
+          "A rabbit!"
+        ],
+        "text": "A rabbit!",
+        "speaker": "MCG",
+        "rect": {
+          "left": 66.0,
+          "top": 1.887182678552668,
+          "width": 26.4013656294953,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 66.0,
+          "top": 1.887182678552668,
+          "width": 26.4013656294953,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 66.0,
+          "top": 1.887182678552668,
+          "width": 26.4013656294953,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 72.0,
+          "y": 30.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b02",
+        "source": {
+          "fx": 0.66,
+          "fy": 0.13,
+          "w": 70,
+          "h": 22,
+          "size": 10
+        }
+      },
+      {
+        "id": "b03",
+        "panel": "p2",
+        "lines": [
+          "Stop, thief!"
+        ],
+        "text": "Stop, thief!",
+        "speaker": "MCG",
+        "rect": {
+          "left": 9.0,
+          "top": 9.876926558421092,
+          "width": 31.68163875539436,
+          "height": 12.123073441578908
+        },
+        "mobileRect": {
+          "left": 9.0,
+          "top": 9.876926558421092,
+          "width": 31.68163875539436,
+          "height": 12.123073441578908
+        },
+        "sourceRect": {
+          "left": 9.0,
+          "top": 9.876926558421092,
+          "width": 31.68163875539436,
+          "height": 12.123073441578908
+        },
+        "tail": {
+          "x": 57.99999999999999,
+          "y": 42.0
+        },
+        "fontScale": 1.0,
+        "audio": "b03",
+        "source": {
+          "fx": 0.09,
+          "fy": 0.22,
+          "w": 84,
+          "h": 24,
+          "size": 11
+        }
+      },
+      {
+        "id": "b04",
+        "panel": "p3",
+        "lines": [
+          "My *shoes*!",
+          "Oh no!"
+        ],
+        "text": "My shoes! Oh no!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 8,
+          "top": 7,
+          "width": 39,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 8,
+          "top": 7,
+          "width": 39,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 9.0,
+          "top": 10.825645957763216,
+          "width": 37.71623661356472,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 40.0,
+          "y": 40.0
+        },
+        "fontScale": 1.0,
+        "audio": "b04",
+        "source": {
+          "fx": 0.09,
+          "fy": 0.28,
+          "w": 100,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b05",
+        "panel": "p4",
+        "lines": [
+          "Help! My *button*",
+          "is stuck!"
+        ],
+        "text": "Help! My button is stuck!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 2,
+          "top": 17,
+          "width": 40,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 2,
+          "top": 17,
+          "width": 40,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 8.0,
+          "top": 14.825645957763214,
+          "width": 39.22488607810731,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 42.0,
+          "y": 34.0
+        },
+        "fontScale": 1.0,
+        "audio": "b05",
+        "source": {
+          "fx": 0.08,
+          "fy": 0.32,
+          "w": 104,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b06",
+        "panel": "p5",
+        "lines": [
+          "Go, Peter, go!"
+        ],
+        "text": "Go, Peter, go!",
+        "speaker": "SPARROWS",
+        "rect": {
+          "left": 8.0,
+          "top": 5.887182678552668,
+          "width": 31.68163875539436,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 8.0,
+          "top": 5.887182678552668,
+          "width": 31.68163875539436,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 8.0,
+          "top": 5.887182678552668,
+          "width": 31.68163875539436,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 20.0,
+          "y": 26.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b06",
+        "source": {
+          "fx": 0.08,
+          "fy": 0.17,
+          "w": 84,
+          "h": 22,
+          "size": 10
+        }
+      },
+      {
+        "id": "b07",
+        "panel": "p5",
+        "lines": [
+          "Thank you,",
+          "*sparrows*!"
+        ],
+        "text": "Thank you, sparrows!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 70,
+          "top": 76,
+          "width": 29,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 70,
+          "top": 76,
+          "width": 29,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 70.0,
+          "top": 79.82564595776321,
+          "width": 28.66433982630918,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 62.0,
+          "y": 70.0
+        },
+        "fontScale": 1.0,
+        "audio": "b07",
+        "source": {
+          "fx": 0.7,
+          "fy": 0.97,
+          "w": 76,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b08",
+        "panel": "p6",
+        "lines": [
+          "Bye-bye,",
+          "*jacket*!"
+        ],
+        "text": "Bye-bye, jacket!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 9.0,
+          "top": 8.825645957763214,
+          "width": 37.71623661356472,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 9.0,
+          "top": 8.825645957763214,
+          "width": 37.71623661356472,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 9.0,
+          "top": 8.825645957763214,
+          "width": 37.71623661356472,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 12.0,
+          "y": 50.0
+        },
+        "fontScale": 1.0,
+        "audio": "b08",
+        "source": {
+          "fx": 0.09,
+          "fy": 0.26,
+          "w": 100,
+          "h": 34,
+          "size": 11
+        }
+      }
+    ],
+    "sfx": [
+      {
+        "panel": "p1",
+        "x": 50.0,
+        "y": 12.0,
+        "text": "BUMP!"
+      },
+      {
+        "panel": "p2",
+        "x": 30,
+        "y": 84,
+        "text": "ZOOM!"
+      },
+      {
+        "panel": "p3",
+        "x": 82.0,
+        "y": 16.0,
+        "text": "PLOP!"
+      },
+      {
+        "panel": "p5",
+        "x": 74,
+        "y": 7.000000000000001,
+        "text": "CHIRP!"
+      },
+      {
+        "panel": "p6",
+        "x": 48.0,
+        "y": 40.0,
+        "text": "SWISH!"
+      }
+    ],
+    "basis": [
+      265.1378,
+      197.9696
+    ],
+    "story": [
+      "彼得撞见了正在种白菜的麦格雷戈先生！先生挥着耙子大喊“站住，小偷！”彼得吓得丢了两只鞋。",
+      "外套扣子挂在了醋栗网上，麻雀飞来给他鼓劲。筛子扣下来的一瞬间，彼得挣脱了，蓝外套却留在网上。"
+    ]
+  },
+  "findIt": {
+    "image": "spread",
+    "targets": [
+      {
+        "id": "robin",
+        "en": "robin",
+        "zh": "知更鸟",
+        "audio": "ui-find-robin",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 41.66666666666667,
+            "y": 45.990566037735846,
+            "w": 5.416666666666667,
+            "h": 7.665094339622641
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "snail",
+        "en": "snail",
+        "zh": "蜗牛",
+        "audio": "ui-find-snail",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 18.333333333333332,
+            "y": 81.36792452830188,
+            "w": 7.166666666666667,
+            "h": 8.84433962264151
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "butterfly",
+        "en": "butterfly",
+        "zh": "蝴蝶",
+        "audio": "ui-find-butterfly",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 93.75,
+            "y": 31.25,
+            "w": 4.833333333333333,
+            "h": 7.900943396226415
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "shoe",
+        "en": "shoe",
+        "zh": "鞋",
+        "audio": "ui-find-shoe",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 55.666666666666664,
+            "y": 81.13207547169812,
+            "w": 7.666666666666666,
+            "h": 7.311320754716981
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "sparrow",
+        "en": "sparrow",
+        "zh": "麻雀",
+        "audio": "ui-find-sparrow",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 1.6666666666666667,
+            "y": 28.891509433962266,
+            "w": 8.333333333333332,
+            "h": 12.735849056603774
+          },
+          {
+            "shape": "ellipse",
+            "x": 35.833333333333336,
+            "y": 27.712264150943394,
+            "w": 8.75,
+            "h": 12.382075471698114
+          },
+          {
+            "shape": "ellipse",
+            "x": 66.66666666666666,
+            "y": 33.84433962264151,
+            "w": 7.333333333333333,
+            "h": 10.141509433962264
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "barrow",
+        "en": "barrow",
+        "zh": "独轮车",
+        "audio": "ui-find-barrow",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 23.75,
+            "y": 55.42452830188679,
+            "w": 25.583333333333336,
+            "h": 18.632075471698112
+          }
+        ],
+        "visible": true
+      }
+    ],
+    "coordinateSystem": "percent from image top-left",
+    "toleranceCssPx": 14,
+    "omitted": [],
+    "crop": {
+      "x": 0,
+      "y": 0,
+      "w": 1200,
+      "h": 848
+    },
+    "decorations": []
+  },
+  "vocabulary": {
+    "cards": [
+      {
+        "id": "rake",
+        "word": "rake",
+        "ipa": "/reɪk/",
+        "sourceZh": "耙子",
+        "zh": "耙子",
+        "example": "He has a big rake.",
+        "image": "rake",
+        "audio": "w-rake",
+        "exampleAudio": "w-rake-ex"
+      },
+      {
+        "id": "shoe",
+        "word": "shoe",
+        "ipa": "/ʃuː/",
+        "sourceZh": "鞋",
+        "zh": "鞋",
+        "example": "My shoes! Oh no!",
+        "image": "shoe",
+        "audio": "w-shoe",
+        "exampleAudio": "w-shoe-ex"
+      },
+      {
+        "id": "button",
+        "word": "button",
+        "ipa": "/ˈbʌtn/",
+        "sourceZh": "扣子",
+        "zh": "扣子",
+        "example": "The button is stuck.",
+        "image": "button",
+        "audio": "w-button",
+        "exampleAudio": "w-button-ex"
+      },
+      {
+        "id": "jacket",
+        "word": "jacket",
+        "ipa": "/ˈdʒækɪt/",
+        "sourceZh": "外套",
+        "zh": "外套",
+        "example": "The jacket is blue.",
+        "image": "jacket",
+        "audio": "w-jacket",
+        "exampleAudio": "w-jacket-ex"
+      },
+      {
+        "id": "sparrow",
+        "word": "sparrow",
+        "ipa": "/ˈspærəʊ/",
+        "sourceZh": "麻雀",
+        "zh": "麻雀",
+        "example": "Look! A little sparrow.",
+        "image": "sparrow",
+        "audio": "w-sparrow",
+        "exampleAudio": "w-sparrow-ex"
+      }
+    ],
+    "extra": [
+      {
+        "word": "rake",
+        "ipa": "/reɪk/",
+        "pos": "n.",
+        "zh": "耙子"
+      },
+      {
+        "word": "shoe",
+        "ipa": "/ʃuː/",
+        "pos": "n.",
+        "zh": "鞋"
+      },
+      {
+        "word": "button",
+        "ipa": "/ˈbʌtn/",
+        "pos": "n.",
+        "zh": "扣子"
+      },
+      {
+        "word": "jacket",
+        "ipa": "/ˈdʒækɪt/",
+        "pos": "n.",
+        "zh": "外套"
+      },
+      {
+        "word": "sparrow",
+        "ipa": "/ˈspærəʊ/",
+        "pos": "n.",
+        "zh": "麻雀"
+      },
+      {
+        "word": "thief",
+        "ipa": "/θiːf/",
+        "pos": "n.",
+        "zh": "小偷"
+      },
+      {
+        "word": "net",
+        "ipa": "/net/",
+        "pos": "n.",
+        "zh": "网"
+      },
+      {
+        "word": "stop",
+        "ipa": "/stɒp/",
+        "pos": "v.",
+        "zh": "停下"
+      },
+      {
+        "word": "run",
+        "ipa": "/rʌn/",
+        "pos": "v.",
+        "zh": "跑"
+      },
+      {
+        "word": "help",
+        "ipa": "/help/",
+        "pos": "int.",
+        "zh": "救命"
+      },
+      {
+        "word": "stuck",
+        "ipa": "/stʌk/",
+        "pos": "adj.",
+        "zh": "卡住的"
+      },
+      {
+        "word": "blue",
+        "ipa": "/bluː/",
+        "pos": "adj.",
+        "zh": "蓝色的"
+      }
+    ],
+    "variants": {
+      "shoes": "shoe",
+      "sparrows": "sparrow"
+    },
+    "variantIpa": {
+      "shoes": "/ʃuːz/",
+      "sparrows": "/ˈspærəʊz/"
+    }
+  },
+  "theater": {
+    "image": "panel6",
+    "intro": [
+      "这是新概念第13课的句型！",
+      "把 dress 换成 jacket："
+    ],
+    "title": "What colour is the jacket?",
+    "bubbles": [
+      {
+        "id": "tb1",
+        "lines": [
+          "What colour is",
+          "the *jacket*?"
+        ],
+        "rect": {
+          "left": 2.6666666666666665,
+          "top": 7.142857142857142,
+          "width": 41.333333333333336,
+          "height": 16.07142857142857
+        },
+        "sourceTail": {
+          "x": 70.0,
+          "y": 38.39285714285714
+        },
+        "tail": {
+          "x": 70.0,
+          "y": 38.39285714285714
+        },
+        "audio": "tb1"
+      },
+      {
+        "id": "tb2",
+        "lines": [
+          "It's blue!"
+        ],
+        "rect": {
+          "left": 74,
+          "top": 71,
+          "width": 24,
+          "height": 9.821428571428571
+        },
+        "sourceTail": {
+          "x": 81.66666666666667,
+          "y": 89.28571428571428
+        },
+        "tail": {
+          "x": 81.66666666666667,
+          "y": 89.28571428571428
+        },
+        "audio": "tb2"
+      }
+    ],
+    "lines": [
+      {
+        "en": "What colour is the jacket?",
+        "speaker": "MCG",
+        "audio": "t01"
+      },
+      {
+        "en": "It's blue.",
+        "speaker": "PETER",
+        "audio": "t02"
+      },
+      {
+        "en": "What colour is the rake?",
+        "speaker": "MCG",
+        "audio": "t03"
+      },
+      {
+        "en": "It's grey.",
+        "speaker": "PETER",
+        "audio": "t04"
+      }
+    ],
+    "referenceImage": null,
+    "referenceCaption": "",
+    "practiceNote": ""
+  },
+  "lesson": [
+    {
+      "id": "l01",
+      "speaker": "NARR",
+      "en": "Peter sees Mr. McGregor!",
+      "zh": "彼得看见了麦格雷戈先生！",
+      "audio": "l01"
+    },
+    {
+      "id": "l02",
+      "speaker": "MCG",
+      "en": "Stop, thief! Stop!",
+      "zh": "站住，小偷！站住！",
+      "audio": "l02"
+    },
+    {
+      "id": "l03",
+      "speaker": "NARR",
+      "en": "Mr. McGregor has a rake.",
+      "zh": "麦格雷戈先生拿着耙子。",
+      "audio": "l03"
+    },
+    {
+      "id": "l04",
+      "speaker": "NARR",
+      "en": "Peter runs and runs.",
+      "zh": "彼得跑呀跑呀。",
+      "audio": "l04"
+    },
+    {
+      "id": "l05",
+      "speaker": "PETER",
+      "en": "My shoes! Oh no!",
+      "zh": "我的鞋！哎呀！",
+      "audio": "l05"
+    },
+    {
+      "id": "l06",
+      "speaker": "NARR",
+      "en": "His button is in the net.",
+      "zh": "他的扣子挂在网上了。",
+      "audio": "l06"
+    },
+    {
+      "id": "l07",
+      "speaker": "PETER",
+      "en": "Help! I'm stuck!",
+      "zh": "救命！我被卡住了！",
+      "audio": "l07"
+    },
+    {
+      "id": "l08",
+      "speaker": "SPARROWS",
+      "en": "Go, Peter, go!",
+      "zh": "加油，彼得，加油！",
+      "audio": "l08"
+    },
+    {
+      "id": "l09",
+      "speaker": "PETER",
+      "en": "Thank you, sparrows!",
+      "zh": "谢谢你们，麻雀！",
+      "audio": "l09"
+    },
+    {
+      "id": "l10",
+      "speaker": "PETER",
+      "en": "Bye-bye, jacket!",
+      "zh": "再见啦，外套！",
+      "audio": "l10"
+    }
+  ],
+  "act": [
+    {
+      "speaker": "MCG",
+      "en": "Stop, thief! Stop!",
+      "audio": "a01"
+    },
+    {
+      "speaker": "PETER",
+      "en": "Oh no! My shoes!",
+      "audio": "a02"
+    },
+    {
+      "speaker": "MCG",
+      "en": "Come here, Peter!",
+      "audio": "a03"
+    },
+    {
+      "speaker": "PETER",
+      "en": "No! Bye-bye, jacket!",
+      "audio": "a04"
+    }
+  ],
+  "actLabel": "爸爸演麦格雷戈先生，我演彼得",
+  "actorRoles": [
+    "PETER",
+    "MCG"
+  ],
+  "homework": {
+    "panels": [
+      {
+        "id": "h1",
+        "panel": "p3",
+        "lines": [
+          "My ________ !",
+          "Oh no!"
+        ],
+        "answers": [
+          "shoes"
+        ],
+        "displayAnswers": [
+          "shoes"
+        ],
+        "rect": {
+          "left": 51,
+          "top": 5,
+          "width": 47
+        },
+        "caption": "shoe → shoes：图里有两只鞋。",
+        "source": {
+          "fx": 0.03,
+          "fy": 0.26,
+          "w": 112,
+          "tail": [
+            0.4,
+            0.4
+          ]
+        }
+      },
+      {
+        "id": "h2",
+        "panel": "p4",
+        "lines": [
+          "Help! My ______",
+          "is stuck!"
+        ],
+        "answers": [
+          "button"
+        ],
+        "displayAnswers": [
+          "button"
+        ],
+        "rect": {
+          "left": 2,
+          "top": 4,
+          "width": 44
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.02,
+          "fy": 0.3,
+          "w": 116,
+          "tail": [
+            0.42,
+            0.34
+          ]
+        }
+      },
+      {
+        "id": "h3",
+        "panel": "p5",
+        "lines": [
+          "Thank you,",
+          "________ !"
+        ],
+        "answers": [
+          "sparrows"
+        ],
+        "displayAnswers": [
+          "sparrows"
+        ],
+        "rect": {
+          "left": 57,
+          "top": 51,
+          "width": 41
+        },
+        "caption": "sparrow → sparrows：图里有几只麻雀。",
+        "source": {
+          "fx": 0.64,
+          "fy": 0.97,
+          "w": 94,
+          "tail": [
+            0.62,
+            0.7
+          ]
+        }
+      },
+      {
+        "id": "h4",
+        "panel": "p6",
+        "lines": [
+          "Bye-bye,",
+          "________ !"
+        ],
+        "answers": [
+          "jacket"
+        ],
+        "displayAnswers": [
+          "jacket"
+        ],
+        "rect": {
+          "left": 3,
+          "top": 5,
+          "width": 42
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.04,
+          "fy": 0.24,
+          "w": 100,
+          "tail": [
+            0.12,
+            0.5
+          ]
+        }
+      }
+    ],
+    "wordbox": [
+      "rake",
+      "shoe",
+      "button",
+      "jacket",
+      "sparrow"
+    ],
+    "forms": {
+      "shoe": "shoes",
+      "sparrow": "sparrows"
+    },
+    "answersSource": "Ans: shoes, button, sparrows, jacket | 1 rake 2 shoes 3 button 4 jacket 5 sparrows | Y N Y N"
+  },
+  "paperHomework": {
+    "questions": [
+      {
+        "zh": "1. 这是一把耙子。",
+        "template": "This is a __________ ."
+      },
+      {
+        "zh": "2. 哎呀！我的鞋！",
+        "template": "Oh no! My __________ !"
+      },
+      {
+        "zh": "3. 扣子是黄色的。",
+        "template": "The __________ is yellow."
+      },
+      {
+        "zh": "4. 外套是蓝色的。",
+        "template": "The __________ is blue."
+      },
+      {
+        "zh": "5. 谢谢你们，麻雀！",
+        "template": "Thank you, __________ !"
+      }
+    ],
+    "prompt": "现在去完成纸质作业里的中译英：先说出来，再写下来。"
+  },
+  "audio": {
+    "b01": {
+      "src": "audio/ch02/b01v1.0.mp3",
+      "text": "Oh no! A man!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.393958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b02": {
+      "src": "audio/ch02/b02v1.0.mp3",
+      "text": "A rabbit!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.040792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b03": {
+      "src": "audio/ch02/b03v1.0.mp3",
+      "text": "Stop, thief!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.196458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b04": {
+      "src": "audio/ch02/b04v1.0.mp3",
+      "text": "My shoes! Oh no!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.690583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b05": {
+      "src": "audio/ch02/b05v1.0.mp3",
+      "text": "Help! My button is stuck!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.849958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b06": {
+      "src": "audio/ch02/b06v1.0.mp3",
+      "text": "Go, Peter, go!",
+      "speaker": "SPARROWS",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.592917,
+      "engine": "kokoro-onnx",
+      "voice": "bf_alice",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b07": {
+      "src": "audio/ch02/b07v1.0.mp3",
+      "text": "Thank you, sparrows!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.478125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b08": {
+      "src": "audio/ch02/b08v1.0.mp3",
+      "text": "Bye-bye, jacket!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.583167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-rake": {
+      "src": "audio/ch02/w-rakev1.0.mp3",
+      "text": "rake",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.577958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-rake-ex": {
+      "src": "audio/ch02/w-rake-exv1.0.mp3",
+      "text": "He has a big rake.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.317917,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-shoe": {
+      "src": "audio/ch02/w-shoev1.0.mp3",
+      "text": "shoe",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.478958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-shoe-ex": {
+      "src": "audio/ch02/w-shoe-exv1.0.mp3",
+      "text": "My shoes! Oh no!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.743792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-button": {
+      "src": "audio/ch02/w-buttonv1.0.mp3",
+      "text": "button",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.76125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-button-ex": {
+      "src": "audio/ch02/w-button-exv1.0.mp3",
+      "text": "The button is stuck.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.672333,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-jacket": {
+      "src": "audio/ch02/w-jacketv1.0.mp3",
+      "text": "jacket",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.85775,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-jacket-ex": {
+      "src": "audio/ch02/w-jacket-exv1.0.mp3",
+      "text": "The jacket is blue.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.921958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-sparrow": {
+      "src": "audio/ch02/w-sparrowv1.0.mp3",
+      "text": "sparrow",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.780708,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-sparrow-ex": {
+      "src": "audio/ch02/w-sparrow-exv1.0.mp3",
+      "text": "Look! A little sparrow.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.645958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-shoes": {
+      "src": "audio/ch02/w-shoesv1.0.mp3",
+      "text": "shoes",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.68825,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-sparrows": {
+      "src": "audio/ch02/w-sparrowsv1.0.mp3",
+      "text": "sparrows",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.876375,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-robin": {
+      "src": "audio/ch02/ui-find-robinv1.0.mp3",
+      "text": "Find the robin!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.136583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-snail": {
+      "src": "audio/ch02/ui-find-snailv1.0.mp3",
+      "text": "Find the snail!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.292042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-butterfly": {
+      "src": "audio/ch02/ui-find-butterflyv1.0.mp3",
+      "text": "Find the butterfly!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.449375,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-shoe": {
+      "src": "audio/ch02/ui-find-shoev1.0.mp3",
+      "text": "Find the shoe!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.096917,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-sparrow": {
+      "src": "audio/ch02/ui-find-sparrowv1.0.mp3",
+      "text": "Find the sparrow!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.325458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-barrow": {
+      "src": "audio/ch02/ui-find-barrowv1.0.mp3",
+      "text": "Find the barrow!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.154875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l01": {
+      "src": "audio/ch02/l01v1.0.mp3",
+      "text": "Peter sees Mr. McGregor!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.505542,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l02": {
+      "src": "audio/ch02/l02v1.0.mp3",
+      "text": "Stop, thief! Stop!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.525458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l03": {
+      "src": "audio/ch02/l03v1.0.mp3",
+      "text": "Mr. McGregor has a rake.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.262875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l04": {
+      "src": "audio/ch02/l04v1.0.mp3",
+      "text": "Peter runs and runs.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.025667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l05": {
+      "src": "audio/ch02/l05v1.0.mp3",
+      "text": "My shoes! Oh no!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.690583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l06": {
+      "src": "audio/ch02/l06v1.0.mp3",
+      "text": "His button is in the net.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.037792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l07": {
+      "src": "audio/ch02/l07v1.0.mp3",
+      "text": "Help! I'm stuck!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.308208,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l08": {
+      "src": "audio/ch02/l08v1.0.mp3",
+      "text": "Go, Peter, go!",
+      "speaker": "SPARROWS",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.592917,
+      "engine": "kokoro-onnx",
+      "voice": "bf_alice",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l09": {
+      "src": "audio/ch02/l09v1.0.mp3",
+      "text": "Thank you, sparrows!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.478125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l10": {
+      "src": "audio/ch02/l10v1.0.mp3",
+      "text": "Bye-bye, jacket!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.583167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t01": {
+      "src": "audio/ch02/t01v1.0.mp3",
+      "text": "What colour is the jacket?",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.041958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t02": {
+      "src": "audio/ch02/t02v1.0.mp3",
+      "text": "It's blue.",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.943542,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t03": {
+      "src": "audio/ch02/t03v1.0.mp3",
+      "text": "What colour is the rake?",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.77475,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t04": {
+      "src": "audio/ch02/t04v1.0.mp3",
+      "text": "It's grey.",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.865958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb1": {
+      "src": "audio/ch02/tb1v1.0.mp3",
+      "text": "What colour is the jacket?",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.041958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb2": {
+      "src": "audio/ch02/tb2v1.0.mp3",
+      "text": "It's blue!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.938042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a01": {
+      "src": "audio/ch02/a01v1.0.mp3",
+      "text": "Stop, thief! Stop!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.525458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a02": {
+      "src": "audio/ch02/a02v1.0.mp3",
+      "text": "Oh no! My shoes!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.535042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a03": {
+      "src": "audio/ch02/a03v1.0.mp3",
+      "text": "Come here, Peter!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.531333,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a04": {
+      "src": "audio/ch02/a04v1.0.mp3",
+      "text": "No! Bye-bye, jacket!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.892958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-start": {
+      "src": "audio/ch02/ui-startv1.0.mp3",
+      "text": "Let's read together!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.491792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-well-done": {
+      "src": "audio/ch02/ui-well-donev1.0.mp3",
+      "text": "Well done!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.886583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-try-again": {
+      "src": "audio/ch02/ui-try-againv1.0.mp3",
+      "text": "Try again!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.031625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-your-turn": {
+      "src": "audio/ch02/ui-your-turnv1.0.mp3",
+      "text": "Your turn!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.994167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-finish": {
+      "src": "audio/ch02/ui-finishv1.0.mp3",
+      "text": "Well done! Now it is time for your paper homework.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 3.178125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-rest": {
+      "src": "audio/ch02/ui-restv1.0.mp3",
+      "text": "Great reading! Time for a little break.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.643625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    }
+  },
+  "voiceConfig": {
+    "MCG": [
+      "bm_daniel",
+      0.8,
+      0.88
+    ],
+    "NARR": [
+      "bm_george",
+      0.88,
+      1.0
+    ],
+    "PETER": [
+      "bm_lewis",
+      0.85,
+      1.25
+    ],
+    "SPARROWS": [
+      "bf_alice",
+      0.9,
+      1.35
+    ]
+  }
+}

@@ -1,0 +1,1830 @@
+{
+  "schemaVersion": "1.1",
+  "chapter": {
+    "number": 4,
+    "title": "Home at Last",
+    "zhTitle": "终于回家了",
+    "lessonTitle": "Home at Last",
+    "available": true
+  },
+  "credits": {
+    "author": "Beatrix Potter",
+    "title": "The Tale of Peter Rabbit",
+    "source": "https://www.gutenberg.org/ebooks/14838",
+    "illustration": "AI-generated; supplied by the project owner"
+  },
+  "assets": {
+    "panel1": {
+      "webp": "img/ch04-panel1v1.0.webp",
+      "jpg": "img/ch04-panel1v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得站在独轮车上看见大门",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel2": {
+      "webp": "img/ch04-panel2v1.0.webp",
+      "jpg": "img/ch04-panel2v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得向大门飞跑",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel3": {
+      "webp": "img/ch04-panel3v1.0.webp",
+      "jpg": "img/ch04-panel3v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得从门底钻出，先生在身后喊",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel4": {
+      "webp": "img/ch04-panel4v1.0.webp",
+      "jpg": "img/ch04-panel4v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "麦格雷戈先生用外套和鞋做成稻草人",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel5": {
+      "webp": "img/ch04-panel5v1.0.webp",
+      "jpg": "img/ch04-panel5v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "累坏的彼得回到家，兔妈妈煮茶",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "panel6": {
+      "webp": "img/ch04-panel6v1.0.webp",
+      "jpg": "img/ch04-panel6v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "兔妈妈给彼得喂茶，三个姐姐吃晚饭",
+      "originalSize": [
+        1200,
+        896
+      ]
+    },
+    "spread": {
+      "webp": "img/ch04-spreadv1.0.webp",
+      "jpg": "img/ch04-spreadv1.0.jpg",
+      "width": 1200,
+      "height": 848,
+      "alt": "找物大场景：知更鸟、青蛙、蝴蝶、蜗牛、洋葱、铁锹",
+      "originalSize": [
+        1553,
+        1098
+      ]
+    },
+    "gate": {
+      "webp": "img/ch04-gatev1.0.webp",
+      "jpg": "img/ch04-gatev1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "大门单词图",
+      "originalSize": [
+        500,
+        500
+      ]
+    },
+    "run": {
+      "webp": "img/ch04-runv1.0.webp",
+      "jpg": "img/ch04-runv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "跑单词图",
+      "originalSize": [
+        500,
+        500
+      ]
+    },
+    "scarecrow": {
+      "webp": "img/ch04-scarecrowv1.0.webp",
+      "jpg": "img/ch04-scarecrowv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "稻草人单词图",
+      "originalSize": [
+        500,
+        500
+      ]
+    },
+    "jacket": {
+      "webp": "img/ch04-jacketv1.0.webp",
+      "jpg": "img/ch04-jacketv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "外套单词图",
+      "originalSize": [
+        500,
+        500
+      ]
+    },
+    "tea": {
+      "webp": "img/ch04-teav1.0.webp",
+      "jpg": "img/ch04-teav1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "茶单词图",
+      "originalSize": [
+        500,
+        500
+      ]
+    },
+    "theater": {
+      "webp": "img/ch04-theaterv1.0.webp",
+      "jpg": "img/ch04-theaterv1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得在门前跑，旁边的稻草人挂着蓝外套和鞋",
+      "originalSize": [
+        1200,
+        896
+      ]
+    }
+  },
+  "comic": {
+    "panels": [
+      {
+        "id": "p1",
+        "image": "panel1"
+      },
+      {
+        "id": "p2",
+        "image": "panel2"
+      },
+      {
+        "id": "p3",
+        "image": "panel3"
+      },
+      {
+        "id": "p4",
+        "image": "panel4"
+      },
+      {
+        "id": "p5",
+        "image": "panel5"
+      },
+      {
+        "id": "p6",
+        "image": "panel6"
+      }
+    ],
+    "bubbles": [
+      {
+        "id": "b01",
+        "panel": "p1",
+        "lines": [
+          "Look! There is",
+          "the *gate*!"
+        ],
+        "text": "Look! There is the gate!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 11,
+          "top": 8,
+          "width": 43,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 11,
+          "top": 8,
+          "width": 43,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 4.0,
+          "top": 14.825645957763214,
+          "width": 40.733535542649896,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 27.0,
+          "y": 44.0
+        },
+        "fontScale": 1.0,
+        "audio": "b01",
+        "source": {
+          "fx": 0.04,
+          "fy": 0.32,
+          "w": 108,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b02",
+        "panel": "p2",
+        "lines": [
+          "*Run*, Peter, *run*!"
+        ],
+        "text": "Run, Peter, run!",
+        "speaker": "NARR",
+        "rect": {
+          "left": 11,
+          "top": 8,
+          "width": 45,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 11,
+          "top": 8,
+          "width": 45,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 4.0,
+          "top": 16.88718267855267,
+          "width": 39.22488607810731,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 50.0,
+          "y": 42.0
+        },
+        "fontScale": 1.0,
+        "audio": "b02",
+        "source": {
+          "fx": 0.04,
+          "fy": 0.28,
+          "w": 104,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b03",
+        "panel": "p3",
+        "lines": [
+          "Stop! Come back!"
+        ],
+        "text": "Stop! Come back!",
+        "speaker": "MCG",
+        "rect": {
+          "left": 24,
+          "top": 4,
+          "width": 39,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 24,
+          "top": 4,
+          "width": 39,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 24.0,
+          "top": 10.887182678552668,
+          "width": 36.20758714902213,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 17.0,
+          "y": 24.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b03",
+        "source": {
+          "fx": 0.24,
+          "fy": 0.22,
+          "w": 96,
+          "h": 22,
+          "size": 10
+        }
+      },
+      {
+        "id": "b04",
+        "panel": "p3",
+        "lines": [
+          "Under the",
+          "*gate*!"
+        ],
+        "text": "Under the gate!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 71,
+          "top": 22,
+          "width": 28,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 71,
+          "top": 22,
+          "width": 28,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 70.0,
+          "top": 18.82564595776321,
+          "width": 27.910015094037888,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 66.0,
+          "y": 50.0
+        },
+        "fontScale": 1.0,
+        "audio": "b04",
+        "source": {
+          "fx": 0.7,
+          "fy": 0.36,
+          "w": 74,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b05",
+        "panel": "p4",
+        "lines": [
+          "My *scarecrow*!",
+          "Go away, birds!"
+        ],
+        "text": "My scarecrow! Go away, birds!",
+        "speaker": "MCG",
+        "rect": {
+          "left": 52,
+          "top": 5,
+          "width": 46,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 52,
+          "top": 5,
+          "width": 46,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 52.0,
+          "top": 6.8256459577632125,
+          "width": 44.50515920400637,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 70.0,
+          "y": 36.0
+        },
+        "fontScale": 1.0,
+        "audio": "b05",
+        "source": {
+          "fx": 0.52,
+          "fy": 0.24,
+          "w": 118,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b06",
+        "panel": "p5",
+        "lines": [
+          "Peter! Where is",
+          "your *jacket*?"
+        ],
+        "text": "Peter! Where is your jacket?",
+        "speaker": "MUM",
+        "rect": {
+          "left": 27,
+          "top": 7,
+          "width": 44,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 27,
+          "top": 7,
+          "width": 44,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 30.0,
+          "top": 7.825645957763213,
+          "width": 44.50515920400637,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 76.0,
+          "y": 26.0
+        },
+        "fontScale": 1.0,
+        "audio": "b06",
+        "source": {
+          "fx": 0.3,
+          "fy": 0.25,
+          "w": 118,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b07",
+        "panel": "p6",
+        "lines": [
+          "Here is your",
+          "*tea*, Peter."
+        ],
+        "text": "Here is your tea, Peter.",
+        "speaker": "MUM",
+        "rect": {
+          "left": 43,
+          "top": 4,
+          "width": 44,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 43,
+          "top": 4,
+          "width": 44,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 42.0,
+          "top": 4.825645957763214,
+          "width": 36.20758714902213,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 36.0,
+          "y": 20.0
+        },
+        "fontScale": 1.0,
+        "audio": "b07",
+        "source": {
+          "fx": 0.42,
+          "fy": 0.22,
+          "w": 96,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b08",
+        "panel": "p6",
+        "lines": [
+          "Yuck!"
+        ],
+        "text": "Yuck!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 2,
+          "top": 21,
+          "width": 18,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 2,
+          "top": 21,
+          "width": 18,
+          "height": 11.112817321447332
+        },
+        "sourceRect": {
+          "left": 1.0,
+          "top": 14.88718267855267,
+          "width": 17.34946884223977,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 7.000000000000001,
+          "y": 40.0
+        },
+        "fontScale": 1.0,
+        "audio": "b08",
+        "source": {
+          "fx": 0.01,
+          "fy": 0.26,
+          "w": 46,
+          "h": 22,
+          "size": 11
+        }
+      },
+      {
+        "id": "b09",
+        "panel": "p6",
+        "lines": [
+          "Yum! Bread, milk",
+          "and blackberries!"
+        ],
+        "text": "Yum! Bread, milk and blackberries!",
+        "speaker": "GIRLS",
+        "rect": {
+          "left": 54,
+          "top": 79,
+          "width": 44,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 54,
+          "top": 79,
+          "width": 44,
+          "height": 17.174354042236786
+        },
+        "sourceRect": {
+          "left": 55.00000000000001,
+          "top": 80.82564595776321,
+          "width": 43.750834471735075,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 80.0,
+          "y": 70.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b09",
+        "source": {
+          "fx": 0.55,
+          "fy": 0.98,
+          "w": 116,
+          "h": 34,
+          "size": 10
+        }
+      }
+    ],
+    "sfx": [
+      {
+        "panel": "p1",
+        "x": 62.0,
+        "y": 30.0,
+        "text": "SCRITCH!"
+      },
+      {
+        "panel": "p2",
+        "x": 70.0,
+        "y": 22.0,
+        "text": "ZOOM!"
+      },
+      {
+        "panel": "p3",
+        "x": 40.0,
+        "y": 84,
+        "text": "SQUEEZE!"
+      },
+      {
+        "panel": "p4",
+        "x": 20.0,
+        "y": 14.000000000000002,
+        "text": "CAW! CAW!"
+      },
+      {
+        "panel": "p5",
+        "x": 18.0,
+        "y": 57.99999999999999,
+        "text": "FLOP!"
+      }
+    ],
+    "basis": [
+      265.1378,
+      197.9696
+    ],
+    "story": [
+      "彼得站在独轮车上，看见了大门！他飞快地跑过去，从大门底下钻了出去，终于逃出了菜园。",
+      "麦格雷戈先生把彼得的蓝外套和鞋子挂起来，做成稻草人吓唬黑鸟。",
+      "彼得跑回家累倒了，妈妈喂他喝甘菊茶；三个姐姐却吃着面包、牛奶和黑莓。"
+    ]
+  },
+  "findIt": {
+    "image": "spread",
+    "targets": [
+      {
+        "id": "robin",
+        "en": "robin",
+        "zh": "知更鸟",
+        "audio": "ui-find-robin",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 31.55183515775918,
+            "y": 43.712574850299404,
+            "w": 4.443013522215067,
+            "h": 8.982035928143713
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "frog",
+        "en": "frog",
+        "zh": "青蛙",
+        "audio": "ui-find-frog",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 11.139729555698647,
+            "y": 84.13173652694611,
+            "w": 5.730843528654217,
+            "h": 9.131736526946108
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "butterfly",
+        "en": "butterfly",
+        "zh": "蝴蝶",
+        "audio": "ui-find-butterfly",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 17.900837089504186,
+            "y": 72.30538922155688,
+            "w": 4.056664520283323,
+            "h": 10.928143712574851
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "snail",
+        "en": "snail",
+        "zh": "蜗牛",
+        "audio": "ui-find-snail",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 28.589826142949132,
+            "y": 89.67065868263472,
+            "w": 3.2839665164198326,
+            "h": 5.838323353293413
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "onion",
+        "en": "onion",
+        "zh": "洋葱",
+        "audio": "ui-find-onion",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 30.71474565357373,
+            "y": 58.83233532934131,
+            "w": 18.0296200901481,
+            "h": 17.365269461077844
+          },
+          {
+            "shape": "rect",
+            "x": 33.869929169349646,
+            "y": 83.68263473053892,
+            "w": 7.533805537669028,
+            "h": 13.17365269461078
+          },
+          {
+            "shape": "rect",
+            "x": 42.820347714101736,
+            "y": 83.53293413173652,
+            "w": 4.314230521571153,
+            "h": 12.724550898203594
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "spade",
+        "en": "spade",
+        "zh": "铁锹",
+        "audio": "ui-find-spade",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 30.907920154539603,
+            "y": 51.646706586826355,
+            "w": 4.8937540244687705,
+            "h": 35.32934131736527
+          }
+        ],
+        "visible": true
+      }
+    ],
+    "coordinateSystem": "percent from image top-left",
+    "toleranceCssPx": 14,
+    "omitted": [],
+    "crop": {
+      "x": 0,
+      "y": 290,
+      "w": 1553,
+      "h": 668
+    },
+    "decorations": []
+  },
+  "vocabulary": {
+    "cards": [
+      {
+        "id": "gate",
+        "word": "gate",
+        "ipa": "/ɡeɪt/",
+        "sourceZh": "大门",
+        "zh": "大门",
+        "example": "Peter runs to the gate.",
+        "image": "gate",
+        "audio": "w-gate",
+        "exampleAudio": "w-gate-ex"
+      },
+      {
+        "id": "run",
+        "word": "run",
+        "ipa": "/rʌn/",
+        "sourceZh": "跑",
+        "zh": "跑",
+        "example": "Run, Peter, run!",
+        "image": "run",
+        "audio": "w-run",
+        "exampleAudio": "w-run-ex"
+      },
+      {
+        "id": "scarecrow",
+        "word": "scarecrow",
+        "ipa": "/ˈskeəkrəʊ/",
+        "sourceZh": "稻草人",
+        "zh": "稻草人",
+        "example": "This is a scarecrow.",
+        "image": "scarecrow",
+        "audio": "w-scarecrow",
+        "exampleAudio": "w-scarecrow-ex"
+      },
+      {
+        "id": "jacket",
+        "word": "jacket",
+        "ipa": "/ˈdʒækɪt/",
+        "sourceZh": "外套",
+        "zh": "外套",
+        "example": "The jacket is blue.",
+        "image": "jacket",
+        "audio": "w-jacket",
+        "exampleAudio": "w-jacket-ex"
+      },
+      {
+        "id": "tea",
+        "word": "tea",
+        "ipa": "/tiː/",
+        "sourceZh": "茶",
+        "zh": "茶",
+        "example": "Here is your tea.",
+        "image": "tea",
+        "audio": "w-tea",
+        "exampleAudio": "w-tea-ex"
+      }
+    ],
+    "extra": [
+      {
+        "word": "gate",
+        "ipa": "/ɡeɪt/",
+        "pos": "n.",
+        "zh": "大门"
+      },
+      {
+        "word": "run",
+        "ipa": "/rʌn/",
+        "pos": "v.",
+        "zh": "跑"
+      },
+      {
+        "word": "scarecrow",
+        "ipa": "/ˈskeəkrəʊ/",
+        "pos": "n.",
+        "zh": "稻草人"
+      },
+      {
+        "word": "jacket",
+        "ipa": "/ˈdʒækɪt/",
+        "pos": "n.",
+        "zh": "外套"
+      },
+      {
+        "word": "tea",
+        "ipa": "/tiː/",
+        "pos": "n.",
+        "zh": "茶"
+      },
+      {
+        "word": "shoe",
+        "ipa": "/ʃuː/",
+        "pos": "n.",
+        "zh": "鞋"
+      },
+      {
+        "word": "home",
+        "ipa": "/həʊm/",
+        "pos": "n.",
+        "zh": "家"
+      },
+      {
+        "word": "bed",
+        "ipa": "/bed/",
+        "pos": "n.",
+        "zh": "床"
+      },
+      {
+        "word": "tired",
+        "ipa": "/ˈtaɪəd/",
+        "pos": "adj.",
+        "zh": "累的"
+      },
+      {
+        "word": "bread",
+        "ipa": "/bred/",
+        "pos": "n.",
+        "zh": "面包"
+      },
+      {
+        "word": "milk",
+        "ipa": "/mɪlk/",
+        "pos": "n.",
+        "zh": "牛奶"
+      },
+      {
+        "word": "bird",
+        "ipa": "/bɜːd/",
+        "pos": "n.",
+        "zh": "鸟"
+      }
+    ],
+    "variants": {},
+    "variantIpa": {}
+  },
+  "theater": {
+    "image": "theater",
+    "intro": [
+      "这是新概念第1课的句型！",
+      "把 handbag 换成 jacket："
+    ],
+    "title": "Is this your jacket?",
+    "bubbles": [
+      {
+        "id": "tb1",
+        "lines": [
+          "Is this your",
+          "*jacket*, Peter?"
+        ],
+        "rect": {
+          "left": 31,
+          "top": 4,
+          "width": 41,
+          "height": 16.07142857142857
+        },
+        "sourceTail": {
+          "x": 26.0,
+          "y": 17.857142857142854
+        },
+        "tail": null,
+        "audio": "tb1"
+      },
+      {
+        "id": "tb2",
+        "lines": [
+          "Yes, it is!"
+        ],
+        "rect": {
+          "left": 61,
+          "top": 40,
+          "width": 27,
+          "height": 9.821428571428571
+        },
+        "sourceTail": {
+          "x": 71.33333333333333,
+          "y": 57.14285714285714
+        },
+        "tail": {
+          "x": 71.33333333333333,
+          "y": 57.14285714285714
+        },
+        "audio": "tb2"
+      }
+    ],
+    "lines": [
+      {
+        "en": "Is this your jacket?",
+        "speaker": "MUM",
+        "audio": "t01"
+      },
+      {
+        "en": "Yes, it is.",
+        "speaker": "PETER",
+        "audio": "t02"
+      },
+      {
+        "en": "Is this your shoe?",
+        "speaker": "MUM",
+        "audio": "t03"
+      },
+      {
+        "en": "Yes, it is. Thank you!",
+        "speaker": "PETER",
+        "audio": "t04"
+      }
+    ],
+    "referenceImage": null,
+    "referenceCaption": "",
+    "practiceNote": "家长问，Peter 回答。"
+  },
+  "lesson": [
+    {
+      "id": "l01",
+      "speaker": "NARR",
+      "en": "Peter is on a wheelbarrow.",
+      "zh": "彼得站在独轮车上。",
+      "audio": "l01"
+    },
+    {
+      "id": "l02",
+      "speaker": "PETER",
+      "en": "Look! There is the gate!",
+      "zh": "看！大门在那儿！",
+      "audio": "l02"
+    },
+    {
+      "id": "l03",
+      "speaker": "NARR",
+      "en": "Peter runs and runs.",
+      "zh": "彼得跑呀跑呀。",
+      "audio": "l03"
+    },
+    {
+      "id": "l04",
+      "speaker": "MCG",
+      "en": "Stop! Come back!",
+      "zh": "站住！回来！",
+      "audio": "l04"
+    },
+    {
+      "id": "l05",
+      "speaker": "PETER",
+      "en": "Under the gate! Bye-bye!",
+      "zh": "钻过大门！再见啦！",
+      "audio": "l05"
+    },
+    {
+      "id": "l06",
+      "speaker": "NARR",
+      "en": "Look! A scarecrow!",
+      "zh": "看！一个稻草人！",
+      "audio": "l06"
+    },
+    {
+      "id": "l07",
+      "speaker": "NARR",
+      "en": "It has Peter's jacket and shoes.",
+      "zh": "它穿着彼得的外套和鞋子。",
+      "audio": "l07"
+    },
+    {
+      "id": "l08",
+      "speaker": "MUM",
+      "en": "Peter! Where is your jacket?",
+      "zh": "彼得！你的外套呢？",
+      "audio": "l08"
+    },
+    {
+      "id": "l09",
+      "speaker": "MUM",
+      "en": "Here is your tea. Go to bed.",
+      "zh": "这是你的茶。去睡觉吧。",
+      "audio": "l09"
+    },
+    {
+      "id": "l10",
+      "speaker": "NARR",
+      "en": "The girls have bread and milk.",
+      "zh": "姐姐们吃面包、喝牛奶。",
+      "audio": "l10"
+    }
+  ],
+  "act": [
+    {
+      "speaker": "MUM",
+      "en": "Peter! Where is your jacket?",
+      "audio": "a01"
+    },
+    {
+      "speaker": "PETER",
+      "en": "Sorry, Mum. I'm tired.",
+      "audio": "a02"
+    },
+    {
+      "speaker": "MUM",
+      "en": "Here is your tea.",
+      "audio": "a03"
+    },
+    {
+      "speaker": "PETER",
+      "en": "Yuck! Thank you, Mum.",
+      "audio": "a04"
+    }
+  ],
+  "actLabel": "爸爸演兔妈妈，我演彼得",
+  "actorRoles": [
+    "PETER",
+    "MUM",
+    "MCG"
+  ],
+  "homework": {
+    "panels": [
+      {
+        "id": "h1",
+        "panel": "p1",
+        "lines": [
+          "Look! There is",
+          "the ________!"
+        ],
+        "answers": [
+          "gate"
+        ],
+        "displayAnswers": [
+          "gate"
+        ],
+        "rect": {
+          "left": 4,
+          "top": 4,
+          "width": 47
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.04,
+          "fy": 0.32,
+          "w": 118,
+          "tail": [
+            0.27,
+            0.44
+          ]
+        }
+      },
+      {
+        "id": "h2",
+        "panel": "p2",
+        "lines": [
+          "_______, Peter,",
+          "_______!"
+        ],
+        "answers": [
+          "Run",
+          "run"
+        ],
+        "displayAnswers": [
+          "Run",
+          "run"
+        ],
+        "rect": {
+          "left": 4,
+          "top": 4,
+          "width": 47
+        },
+        "caption": "run 可以用两次；句首变成 Run。",
+        "source": {
+          "fx": 0.04,
+          "fy": 0.32,
+          "w": 118,
+          "tail": [
+            0.5,
+            0.42
+          ]
+        }
+      },
+      {
+        "id": "h3",
+        "panel": "p4",
+        "lines": [
+          "My __________!",
+          "Go away, birds!"
+        ],
+        "answers": [
+          "scarecrow"
+        ],
+        "displayAnswers": [
+          "scarecrow"
+        ],
+        "rect": {
+          "left": 42,
+          "top": 0,
+          "width": 56
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.5,
+          "fy": 0.26,
+          "w": 126,
+          "tail": [
+            0.7,
+            0.36
+          ]
+        }
+      },
+      {
+        "id": "h4",
+        "panel": "p6",
+        "lines": [
+          "Here is your",
+          "______, Peter."
+        ],
+        "answers": [
+          "tea"
+        ],
+        "displayAnswers": [
+          "tea"
+        ],
+        "rect": {
+          "left": 42,
+          "top": 0,
+          "width": 56
+        },
+        "caption": "点已填的空格，可以换一个词。",
+        "source": {
+          "fx": 0.42,
+          "fy": 0.26,
+          "w": 104,
+          "tail": [
+            0.36,
+            0.2
+          ]
+        }
+      }
+    ],
+    "wordbox": [
+      "gate",
+      "run",
+      "scarecrow",
+      "jacket",
+      "tea"
+    ],
+    "forms": {},
+    "answersSource": "Ans: gate, Run/run, scarecrow, tea | 1 gate 2 Run, run 3 scarecrow 4 jacket 5 tea | N Y Y N"
+  },
+  "paperHomework": {
+    "questions": [
+      {
+        "zh": "1. 彼得跑向大门。",
+        "template": "Peter runs to the __________ ."
+      },
+      {
+        "zh": "2. 快跑，彼得，快跑！",
+        "template": "__________ , Peter, __________ !"
+      },
+      {
+        "zh": "3. 这是一个稻草人。",
+        "template": "This is a __________ ."
+      },
+      {
+        "zh": "4. 这件外套是蓝色的。",
+        "template": "The __________ is blue."
+      },
+      {
+        "zh": "5. 这是你的茶。",
+        "template": "Here is your __________ ."
+      }
+    ],
+    "prompt": "现在去完成纸质作业里的中译英：先说出来，再写下来。"
+  },
+  "audio": {
+    "b01": {
+      "src": "audio/ch04/b01v1.0.mp3",
+      "text": "Look! There is the gate!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.744458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b02": {
+      "src": "audio/ch04/b02v1.0.mp3",
+      "text": "Run, Peter, run!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.766042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b03": {
+      "src": "audio/ch04/b03v1.0.mp3",
+      "text": "Stop! Come back!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.345958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b04": {
+      "src": "audio/ch04/b04v1.0.mp3",
+      "text": "Under the gate!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.144333,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b05": {
+      "src": "audio/ch04/b05v1.0.mp3",
+      "text": "My scarecrow! Go away, birds!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.20175,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b06": {
+      "src": "audio/ch04/b06v1.0.mp3",
+      "text": "Peter! Where is your jacket?",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.902125,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b07": {
+      "src": "audio/ch04/b07v1.0.mp3",
+      "text": "Here is your tea, Peter.",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.739708,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b08": {
+      "src": "audio/ch04/b08v1.0.mp3",
+      "text": "Yuck!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.60875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b09": {
+      "src": "audio/ch04/b09v1.0.mp3",
+      "text": "Yum! Bread, milk and blackberries!",
+      "speaker": "GIRLS",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.473958,
+      "engine": "kokoro-onnx",
+      "voice": "bf_lily",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-gate": {
+      "src": "audio/ch04/w-gatev1.0.mp3",
+      "text": "gate",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.598833,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-gate-ex": {
+      "src": "audio/ch04/w-gate-exv1.0.mp3",
+      "text": "Peter runs to the gate.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.025,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-run": {
+      "src": "audio/ch04/w-runv1.0.mp3",
+      "text": "run",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.654417,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-run-ex": {
+      "src": "audio/ch04/w-run-exv1.0.mp3",
+      "text": "Run, Peter, run!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.766042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-scarecrow": {
+      "src": "audio/ch04/w-scarecrowv1.0.mp3",
+      "text": "scarecrow",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.831583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-scarecrow-ex": {
+      "src": "audio/ch04/w-scarecrow-exv1.0.mp3",
+      "text": "This is a scarecrow.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.650042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-jacket": {
+      "src": "audio/ch04/w-jacketv1.0.mp3",
+      "text": "jacket",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.85775,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-jacket-ex": {
+      "src": "audio/ch04/w-jacket-exv1.0.mp3",
+      "text": "The jacket is blue.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.921958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-tea": {
+      "src": "audio/ch04/w-teav1.0.mp3",
+      "text": "tea",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.559542,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-tea-ex": {
+      "src": "audio/ch04/w-tea-exv1.0.mp3",
+      "text": "Here is your tea.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.579417,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-robin": {
+      "src": "audio/ch04/ui-find-robinv1.0.mp3",
+      "text": "Find the robin!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.136583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-frog": {
+      "src": "audio/ch04/ui-find-frogv1.0.mp3",
+      "text": "Find the frog!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.125625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-butterfly": {
+      "src": "audio/ch04/ui-find-butterflyv1.0.mp3",
+      "text": "Find the butterfly!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.449375,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-snail": {
+      "src": "audio/ch04/ui-find-snailv1.0.mp3",
+      "text": "Find the snail!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.292042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-onion": {
+      "src": "audio/ch04/ui-find-onionv1.0.mp3",
+      "text": "Find the onion!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.274,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-spade": {
+      "src": "audio/ch04/ui-find-spadev1.0.mp3",
+      "text": "Find the spade!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.1975,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l01": {
+      "src": "audio/ch04/l01v1.0.mp3",
+      "text": "Peter is on a wheelbarrow.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.191917,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l02": {
+      "src": "audio/ch04/l02v1.0.mp3",
+      "text": "Look! There is the gate!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.744458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l03": {
+      "src": "audio/ch04/l03v1.0.mp3",
+      "text": "Peter runs and runs.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.025667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l04": {
+      "src": "audio/ch04/l04v1.0.mp3",
+      "text": "Stop! Come back!",
+      "speaker": "MCG",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.345958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_daniel",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l05": {
+      "src": "audio/ch04/l05v1.0.mp3",
+      "text": "Under the gate! Bye-bye!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.89825,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l06": {
+      "src": "audio/ch04/l06v1.0.mp3",
+      "text": "Look! A scarecrow!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.380667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l07": {
+      "src": "audio/ch04/l07v1.0.mp3",
+      "text": "It has Peter's jacket and shoes.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.551,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l08": {
+      "src": "audio/ch04/l08v1.0.mp3",
+      "text": "Peter! Where is your jacket?",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.902125,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l09": {
+      "src": "audio/ch04/l09v1.0.mp3",
+      "text": "Here is your tea. Go to bed.",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.863042,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l10": {
+      "src": "audio/ch04/l10v1.0.mp3",
+      "text": "The girls have bread and milk.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.161958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t01": {
+      "src": "audio/ch04/t01v1.0.mp3",
+      "text": "Is this your jacket?",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.585958,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t02": {
+      "src": "audio/ch04/t02v1.0.mp3",
+      "text": "Yes, it is.",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.146042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t03": {
+      "src": "audio/ch04/t03v1.0.mp3",
+      "text": "Is this your shoe?",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.194042,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t04": {
+      "src": "audio/ch04/t04v1.0.mp3",
+      "text": "Yes, it is. Thank you!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.926417,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb1": {
+      "src": "audio/ch04/tb1v1.0.mp3",
+      "text": "Is this your jacket, Peter?",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.921958,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb2": {
+      "src": "audio/ch04/tb2v1.0.mp3",
+      "text": "Yes, it is!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.173458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a01": {
+      "src": "audio/ch04/a01v1.0.mp3",
+      "text": "Peter! Where is your jacket?",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.902125,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a02": {
+      "src": "audio/ch04/a02v1.0.mp3",
+      "text": "Sorry, Mum. I'm tired.",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.980542,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a03": {
+      "src": "audio/ch04/a03v1.0.mp3",
+      "text": "Here is your tea.",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.280083,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a04": {
+      "src": "audio/ch04/a04v1.0.mp3",
+      "text": "Yuck! Thank you, Mum.",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.456458,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-start": {
+      "src": "audio/ch04/ui-startv1.0.mp3",
+      "text": "Let's read together!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.491792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-well-done": {
+      "src": "audio/ch04/ui-well-donev1.0.mp3",
+      "text": "Well done!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.886583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-try-again": {
+      "src": "audio/ch04/ui-try-againv1.0.mp3",
+      "text": "Try again!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.031625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-your-turn": {
+      "src": "audio/ch04/ui-your-turnv1.0.mp3",
+      "text": "Your turn!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.994167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-finish": {
+      "src": "audio/ch04/ui-finishv1.0.mp3",
+      "text": "Well done! Now it is time for your paper homework.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 3.178125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-rest": {
+      "src": "audio/ch04/ui-restv1.0.mp3",
+      "text": "Great reading! Time for a little break.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.643625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    }
+  },
+  "voiceConfig": {
+    "GIRLS": [
+      "bf_lily",
+      0.85,
+      1.2
+    ],
+    "MCG": [
+      "bm_daniel",
+      0.8,
+      0.88
+    ],
+    "MUM": [
+      "bf_emma",
+      0.85,
+      1.0
+    ],
+    "NARR": [
+      "bm_george",
+      0.88,
+      1.0
+    ],
+    "PETER": [
+      "bm_lewis",
+      0.85,
+      1.25
+    ]
+  }
+}

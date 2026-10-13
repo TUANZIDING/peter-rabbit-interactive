@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/
+*.onnx
+voices*.bin
+node_modules/
+reports/
+
+# Local preparation and historical handoff records
+docs/iPad试用反馈v1.0.md
+docs/开发进度v1.1.md
+docs/素材来源v1.0.md
+docs/素材来源v1.1.md
+docs/英文说明v1.0.md
+docs/英文说明v1.1.md
+docs/验证记录v1.0.md
+docs/验证记录v1.1.md

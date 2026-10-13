@@ -1,0 +1,1618 @@
+{
+  "schemaVersion": "1.0",
+  "chapter": {
+    "number": 1,
+    "title": "Don't Go into the Garden!",
+    "zhTitle": "千万别去菜园！",
+    "lessonTitle": "The Garden",
+    "available": true
+  },
+  "credits": {
+    "author": "Beatrix Potter",
+    "title": "The Tale of Peter Rabbit",
+    "source": "https://www.gutenberg.org/ebooks/14838",
+    "illustration": "AI-generated; supplied by the project owner"
+  },
+  "assets": {
+    "panel1": {
+      "webp": "img/ch01-panel1v1.0.webp",
+      "jpg": "img/ch01-panel1v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "兔妈妈叮嘱彼得和三个姐姐"
+    },
+    "panel2": {
+      "webp": "img/ch01-panel2v1.0.webp",
+      "jpg": "img/ch01-panel2v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "兔妈妈拿着篮子向小兔们告别"
+    },
+    "panel3": {
+      "webp": "img/ch01-panel3v1.0.webp",
+      "jpg": "img/ch01-panel3v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "三个姐姐采黑莓，彼得跑向菜园"
+    },
+    "panel4": {
+      "webp": "img/ch01-panel4v1.0.webp",
+      "jpg": "img/ch01-panel4v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得从菜园门下钻进去"
+    },
+    "panel5": {
+      "webp": "img/ch01-panel5v1.0.webp",
+      "jpg": "img/ch01-panel5v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得吃生菜、豆子和小萝卜"
+    },
+    "panel6": {
+      "webp": "img/ch01-panel6v1.0.webp",
+      "jpg": "img/ch01-panel6v1.0.jpg",
+      "width": 1200,
+      "height": 896,
+      "alt": "彼得捂着吃撑的肚子寻找欧芹"
+    },
+    "spread": {
+      "webp": "img/ch01-spreadv1.0.webp",
+      "jpg": "img/ch01-spreadv1.0.jpg",
+      "width": 1200,
+      "height": 848,
+      "alt": "菜园大场景：彼得、白猫、知更鸟、铁锹、小灰鼠、蝴蝶和胡萝卜"
+    },
+    "garden": {
+      "webp": "img/ch01-gardenv1.0.webp",
+      "jpg": "img/ch01-gardenv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "菜园单词图"
+    },
+    "basket": {
+      "webp": "img/ch01-basketv1.0.webp",
+      "jpg": "img/ch01-basketv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "篮子单词图"
+    },
+    "blackberry": {
+      "webp": "img/ch01-blackberryv1.0.webp",
+      "jpg": "img/ch01-blackberryv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "黑莓单词图"
+    },
+    "lettuce": {
+      "webp": "img/ch01-lettucev1.0.webp",
+      "jpg": "img/ch01-lettucev1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "生菜单词图"
+    },
+    "radish": {
+      "webp": "img/ch01-radishv1.0.webp",
+      "jpg": "img/ch01-radishv1.0.jpg",
+      "width": 500,
+      "height": 500,
+      "alt": "小萝卜单词图"
+    }
+  },
+  "comic": {
+    "panels": [
+      {
+        "id": "p1",
+        "image": "panel1"
+      },
+      {
+        "id": "p2",
+        "image": "panel2"
+      },
+      {
+        "id": "p3",
+        "image": "panel3"
+      },
+      {
+        "id": "p4",
+        "image": "panel4"
+      },
+      {
+        "id": "p5",
+        "image": "panel5"
+      },
+      {
+        "id": "p6",
+        "image": "panel6"
+      }
+    ],
+    "bubbles": [
+      {
+        "id": "b01",
+        "panel": "p1",
+        "lines": [
+          "Don't go into",
+          "the *garden*!"
+        ],
+        "text": "Don't go into the garden!",
+        "speaker": "MUM",
+        "rect": {
+          "left": 33.0,
+          "top": 12.825645957763212,
+          "width": 39.22488607810731,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 29,
+          "top": 8,
+          "width": 43,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 25.0,
+          "y": 27.0
+        },
+        "fontScale": 1.0,
+        "audio": "b01",
+        "source": {
+          "fx": 0.33,
+          "fy": 0.3,
+          "w": 104,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b02",
+        "panel": "p1",
+        "lines": [
+          "Yes, Mum!"
+        ],
+        "text": "Yes, Mum!",
+        "speaker": "GIRLS",
+        "rect": {
+          "left": 74.5,
+          "top": 18.887182678552666,
+          "width": 23.384066700410123,
+          "height": 11.112817321447332
+        },
+        "mobileRect": {
+          "left": 73,
+          "top": 25,
+          "width": 26,
+          "height": 11.112817321447332
+        },
+        "tail": {
+          "x": 83.0,
+          "y": 42.0
+        },
+        "fontScale": 0.9090909090909091,
+        "audio": "b02",
+        "source": {
+          "fx": 0.745,
+          "fy": 0.3,
+          "w": 62,
+          "h": 22,
+          "size": 10
+        }
+      },
+      {
+        "id": "b03",
+        "panel": "p2",
+        "lines": [
+          "Here is my *basket*.",
+          "Be good!"
+        ],
+        "text": "Here is my basket. Be good!",
+        "speaker": "MUM",
+        "rect": {
+          "left": 50.0,
+          "top": 12.825645957763212,
+          "width": 42.24218500719248,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 50.0,
+          "top": 12.825645957763212,
+          "width": 42.24218500719248,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 40.0,
+          "y": 25.0
+        },
+        "fontScale": 1.0,
+        "audio": "b03",
+        "source": {
+          "fx": 0.5,
+          "fy": 0.3,
+          "w": 112,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b04",
+        "panel": "p3",
+        "lines": [
+          "Look! *Blackberries*!",
+          "Yum!"
+        ],
+        "text": "Look! Blackberries! Yum!",
+        "speaker": "GIRLS",
+        "rect": {
+          "left": 5.0,
+          "top": 8.825645957763214,
+          "width": 43.750834471735075,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 5.0,
+          "top": 8.825645957763214,
+          "width": 43.750834471735075,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 30.0,
+          "y": 40.0
+        },
+        "fontScale": 1.0,
+        "audio": "b04",
+        "source": {
+          "fx": 0.05,
+          "fy": 0.26,
+          "w": 116,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b05",
+        "panel": "p4",
+        "lines": [
+          "Shh! I'm in",
+          "the *garden*!"
+        ],
+        "text": "Shh! I'm in the garden!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 55.00000000000001,
+          "top": 22.825645957763214,
+          "width": 37.71623661356472,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 55.00000000000001,
+          "top": 22.825645957763214,
+          "width": 37.71623661356472,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 83.0,
+          "y": 62.0
+        },
+        "fontScale": 1.0,
+        "audio": "b05",
+        "source": {
+          "fx": 0.55,
+          "fy": 0.4,
+          "w": 100,
+          "h": 34,
+          "size": 11
+        }
+      },
+      {
+        "id": "b06",
+        "panel": "p5",
+        "lines": [
+          "*Lettuce*!",
+          "Beans!",
+          "*Radishes*!"
+        ],
+        "text": "Lettuce! Beans! Radishes!",
+        "speaker": "PETER",
+        "rect": {
+          "left": 2.0,
+          "top": 18.76410923697376,
+          "width": 27.155690361766595,
+          "height": 23.23589076302624
+        },
+        "mobileRect": {
+          "left": 2.0,
+          "top": 18.76410923697376,
+          "width": 27.155690361766595,
+          "height": 23.23589076302624
+        },
+        "tail": {
+          "x": 35.0,
+          "y": 40.0
+        },
+        "fontScale": 1.0,
+        "audio": "b06",
+        "source": {
+          "fx": 0.02,
+          "fy": 0.42,
+          "w": 72,
+          "h": 46,
+          "size": 11
+        }
+      },
+      {
+        "id": "b07",
+        "panel": "p6",
+        "lines": [
+          "Oh! My tummy!",
+          "Where is the parsley?"
+        ],
+        "text": "Oh! My tummy! Where is the parsley?",
+        "speaker": "PETER",
+        "rect": {
+          "left": 50.0,
+          "top": 12.825645957763212,
+          "width": 45.25948393627766,
+          "height": 17.174354042236786
+        },
+        "mobileRect": {
+          "left": 50.0,
+          "top": 12.825645957763212,
+          "width": 45.25948393627766,
+          "height": 17.174354042236786
+        },
+        "tail": {
+          "x": 40.0,
+          "y": 25.0
+        },
+        "fontScale": 1.0,
+        "audio": "b07",
+        "source": {
+          "fx": 0.5,
+          "fy": 0.3,
+          "w": 120,
+          "h": 34,
+          "size": 11
+        }
+      }
+    ],
+    "sfx": [
+      {
+        "panel": "p3",
+        "x": 72.0,
+        "y": 20.0,
+        "text": "YUM!"
+      },
+      {
+        "panel": "p4",
+        "x": 30.0,
+        "y": 14.000000000000002,
+        "text": "SQUEEZE!"
+      },
+      {
+        "panel": "p5",
+        "x": 80.0,
+        "y": 9.0,
+        "text": "MUNCH!"
+      },
+      {
+        "panel": "p6",
+        "x": 15.0,
+        "y": 45.0,
+        "text": "BURP!"
+      }
+    ],
+    "basis": [
+      265.1378,
+      197.9696
+    ],
+    "story": [
+      "兔妈妈要出门，叮嘱四只小兔：“千万别去麦格雷戈先生的菜园！”三个姐姐乖乖去采黑莓。",
+      "淘气的彼得却从大门底下钻进菜园，大吃生菜、豆子和小萝卜，吃撑了，赶紧去找欧芹。"
+    ]
+  },
+  "findIt": {
+    "image": "spread",
+    "targets": [
+      {
+        "id": "robin",
+        "en": "robin",
+        "zh": "知更鸟",
+        "audio": "ui-find-robin",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 20.2,
+            "y": 42,
+            "w": 8.8,
+            "h": 13
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "spade",
+        "en": "spade",
+        "zh": "铁锹",
+        "audio": "ui-find-spade",
+        "hotspots": [
+          {
+            "shape": "rect",
+            "x": 21.5,
+            "y": 53,
+            "w": 7.6,
+            "h": 37
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "mouse",
+        "en": "mouse",
+        "zh": "老鼠",
+        "audio": "ui-find-mouse",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 3.6,
+            "y": 60.2,
+            "w": 6.5,
+            "h": 8.8
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "cat",
+        "en": "cat",
+        "zh": "猫",
+        "audio": "ui-find-cat",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 24.6,
+            "y": 11.6,
+            "w": 10.4,
+            "h": 9.4
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "butterfly",
+        "en": "butterfly",
+        "zh": "蝴蝶",
+        "audio": "ui-find-butterfly",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 90,
+            "y": 40.5,
+            "w": 5.4,
+            "h": 7.2
+          }
+        ],
+        "visible": true
+      },
+      {
+        "id": "carrot",
+        "en": "carrot",
+        "zh": "胡萝卜",
+        "audio": "ui-find-carrot",
+        "hotspots": [
+          {
+            "shape": "ellipse",
+            "x": 76.8,
+            "y": 59.6,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 79.2,
+            "y": 57.2,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 81.1,
+            "y": 61.6,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 83.5,
+            "y": 59.300000000000004,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 85.39999999999999,
+            "y": 63.00000000000001,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 89.5,
+            "y": 62.9,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 92.5,
+            "y": 59.0,
+            "w": 3.4,
+            "h": 4.8
+          },
+          {
+            "shape": "ellipse",
+            "x": 94.2,
+            "y": 66.3,
+            "w": 3.4,
+            "h": 4.8
+          }
+        ],
+        "visible": true
+      }
+    ],
+    "coordinateSystem": "percent from image top-left",
+    "toleranceCssPx": 14
+  },
+  "vocabulary": {
+    "cards": [
+      {
+        "id": "garden",
+        "word": "garden",
+        "ipa": "/ˈɡɑːdn/",
+        "zh": "菜园",
+        "example": "This is the garden.",
+        "image": "garden",
+        "audio": "w-garden",
+        "exampleAudio": "w-garden-ex"
+      },
+      {
+        "id": "basket",
+        "word": "basket",
+        "ipa": "/ˈbɑːskɪt/",
+        "zh": "篮子",
+        "example": "Here is my basket.",
+        "image": "basket",
+        "audio": "w-basket",
+        "exampleAudio": "w-basket-ex"
+      },
+      {
+        "id": "blackberry",
+        "word": "blackberry",
+        "ipa": "/ˈblækbəri/",
+        "zh": "黑莓",
+        "example": "Look! Blackberries!",
+        "image": "blackberry",
+        "audio": "w-blackberry",
+        "exampleAudio": "w-blackberry-ex"
+      },
+      {
+        "id": "lettuce",
+        "word": "lettuce",
+        "ipa": "/ˈletɪs/",
+        "zh": "生菜",
+        "example": "Peter eats lettuce.",
+        "image": "lettuce",
+        "audio": "w-lettuce",
+        "exampleAudio": "w-lettuce-ex"
+      },
+      {
+        "id": "radish",
+        "word": "radish",
+        "ipa": "/ˈrædɪʃ/",
+        "zh": "小萝卜",
+        "example": "This radish is red.",
+        "image": "radish",
+        "audio": "w-radish",
+        "exampleAudio": "w-radish-ex"
+      }
+    ],
+    "extra": [
+      {
+        "word": "garden",
+        "ipa": "/ˈɡɑːdn/",
+        "pos": "n.",
+        "zh": "菜园；花园"
+      },
+      {
+        "word": "basket",
+        "ipa": "/ˈbɑːskɪt/",
+        "pos": "n.",
+        "zh": "篮子"
+      },
+      {
+        "word": "blackberry",
+        "ipa": "/ˈblækbəri/",
+        "pos": "n.",
+        "zh": "黑莓"
+      },
+      {
+        "word": "lettuce",
+        "ipa": "/ˈletɪs/",
+        "pos": "n.",
+        "zh": "生菜"
+      },
+      {
+        "word": "radish",
+        "ipa": "/ˈrædɪʃ/",
+        "pos": "n.",
+        "zh": "小萝卜"
+      },
+      {
+        "word": "rabbit",
+        "ipa": "/ˈræbɪt/",
+        "pos": "n.",
+        "zh": "兔子"
+      },
+      {
+        "word": "bean",
+        "ipa": "/biːn/",
+        "pos": "n.",
+        "zh": "豆子"
+      },
+      {
+        "word": "parsley",
+        "ipa": "/ˈpɑːsli/",
+        "pos": "n.",
+        "zh": "欧芹"
+      },
+      {
+        "word": "tummy",
+        "ipa": "/ˈtʌmi/",
+        "pos": "n.",
+        "zh": "肚子"
+      },
+      {
+        "word": "little",
+        "ipa": "/ˈlɪtl/",
+        "pos": "adj.",
+        "zh": "小的"
+      },
+      {
+        "word": "good",
+        "ipa": "/ɡʊd/",
+        "pos": "adj.",
+        "zh": "乖的；好的"
+      },
+      {
+        "word": "look",
+        "ipa": "/lʊk/",
+        "pos": "v.",
+        "zh": "看"
+      }
+    ],
+    "variants": {
+      "blackberries": "blackberry",
+      "radishes": "radish"
+    }
+  },
+  "theater": {
+    "image": "panel2",
+    "intro": [
+      "这是新概念第1课的句型！",
+      "把 handbag 换成 basket："
+    ],
+    "bubbles": [
+      {
+        "id": "tb1",
+        "lines": [
+          "Is this your",
+          "*basket*, Mum?"
+        ],
+        "rect": {
+          "left": 56.666666666666664,
+          "top": 15.178571428571427,
+          "width": 40.666666666666664,
+          "height": 16.07142857142857
+        },
+        "tail": {
+          "x": 95,
+          "y": 61
+        },
+        "audio": "tb1",
+        "sourceTail": {
+          "x": 70.66666666666667,
+          "y": 52.67857142857142
+        }
+      },
+      {
+        "id": "tb2",
+        "lines": [
+          "Yes, it is."
+        ],
+        "rect": {
+          "left": 1.3333333333333333,
+          "top": 8.035714285714285,
+          "width": 22.0,
+          "height": 9.821428571428571
+        },
+        "tail": {
+          "x": 30.0,
+          "y": 24.999999999999996
+        },
+        "audio": "tb2"
+      }
+    ],
+    "lines": [
+      {
+        "en": "Is this your basket?",
+        "speaker": "PETER",
+        "audio": "t01"
+      },
+      {
+        "en": "Yes, it is.",
+        "speaker": "MUM",
+        "audio": "t02"
+      },
+      {
+        "en": "Is this your umbrella?",
+        "speaker": "PETER",
+        "audio": "t03"
+      },
+      {
+        "en": "Yes, it is. Thank you!",
+        "speaker": "MUM",
+        "audio": "t04"
+      }
+    ]
+  },
+  "lesson": [
+    {
+      "id": "l01",
+      "speaker": "NARR",
+      "en": "Here are four little rabbits.",
+      "zh": "这是四只小兔子。",
+      "audio": "l01"
+    },
+    {
+      "id": "l02",
+      "speaker": "MUM",
+      "en": "Don't go into the garden!",
+      "zh": "别去菜园！",
+      "audio": "l02"
+    },
+    {
+      "id": "l03",
+      "speaker": "MUM",
+      "en": "Mr. McGregor is there.",
+      "zh": "麦格雷戈先生在那儿。",
+      "audio": "l03"
+    },
+    {
+      "id": "l04",
+      "speaker": "MUM",
+      "en": "Here is my basket. Be good!",
+      "zh": "这是我的篮子。要乖哦！",
+      "audio": "l04"
+    },
+    {
+      "id": "l05",
+      "speaker": "NARR",
+      "en": "The girls pick blackberries.",
+      "zh": "三个姐姐去采黑莓。",
+      "audio": "l05"
+    },
+    {
+      "id": "l06",
+      "speaker": "NARR",
+      "en": "Peter runs to the garden.",
+      "zh": "彼得却跑去了菜园。",
+      "audio": "l06"
+    },
+    {
+      "id": "l07",
+      "speaker": "PETER",
+      "en": "Shh! I'm in the garden!",
+      "zh": "嘘！我进菜园啦！",
+      "audio": "l07"
+    },
+    {
+      "id": "l08",
+      "speaker": "PETER",
+      "en": "Lettuce! Beans! Radishes!",
+      "zh": "生菜！豆子！小萝卜！",
+      "audio": "l08"
+    },
+    {
+      "id": "l09",
+      "speaker": "NARR",
+      "en": "Peter eats and eats.",
+      "zh": "彼得吃呀吃呀。",
+      "audio": "l09"
+    },
+    {
+      "id": "l10",
+      "speaker": "PETER",
+      "en": "Oh, my tummy! Parsley?",
+      "zh": "哎哟，我的肚子！欧芹在哪儿？",
+      "audio": "l10"
+    }
+  ],
+  "act": [
+    {
+      "speaker": "MUM",
+      "en": "Don't go into the garden!",
+      "audio": "a01"
+    },
+    {
+      "speaker": "PETER",
+      "en": "OK, Mum. Bye-bye!",
+      "audio": "a02"
+    },
+    {
+      "speaker": "MUM",
+      "en": "Here is my basket. Be good!",
+      "audio": "a03"
+    },
+    {
+      "speaker": "PETER",
+      "en": "Shh! I'm in the garden!",
+      "audio": "a04"
+    }
+  ],
+  "homework": {
+    "panels": [
+      {
+        "id": "h1",
+        "panel": "p1",
+        "lines": [
+          "Don't go into",
+          "the ________!"
+        ],
+        "answers": [
+          "garden"
+        ],
+        "source": {
+          "fx": 0.33,
+          "fy": 0.3,
+          "w": 112,
+          "tail": [
+            0.25,
+            0.27
+          ]
+        }
+      },
+      {
+        "id": "h2",
+        "panel": "p2",
+        "lines": [
+          "Here is my",
+          "________ ."
+        ],
+        "answers": [
+          "basket"
+        ],
+        "source": {
+          "fx": 0.5,
+          "fy": 0.3,
+          "w": 112,
+          "tail": [
+            0.4,
+            0.25
+          ]
+        }
+      },
+      {
+        "id": "h3",
+        "panel": "p3",
+        "lines": [
+          "Look!",
+          "__________!"
+        ],
+        "answers": [
+          "blackberries"
+        ],
+        "source": {
+          "fx": 0.05,
+          "fy": 0.26,
+          "w": 116,
+          "tail": [
+            0.3,
+            0.4
+          ]
+        }
+      },
+      {
+        "id": "h4",
+        "panel": "p5",
+        "lines": [
+          "_______!",
+          "Beans!",
+          "_______!"
+        ],
+        "answers": [
+          "lettuce",
+          "radishes"
+        ],
+        "source": {
+          "fx": 0.02,
+          "fy": 0.44,
+          "w": 88,
+          "tail": [
+            0.35,
+            0.4
+          ]
+        }
+      }
+    ],
+    "wordbox": [
+      "garden",
+      "basket",
+      "blackberry",
+      "lettuce",
+      "radish"
+    ],
+    "forms": {
+      "blackberry": "blackberries",
+      "radish": "radishes"
+    },
+    "answersSource": "Ans: garden, basket, Blackberries, Lettuce/Radishes | 1 garden 2 basket 3 Blackberries 4 lettuce 5 radish | Y N N Y"
+  },
+  "paperHomework": {
+    "questions": [
+      {
+        "zh": "1. 别去菜园！",
+        "template": "Don't go into the __________ !"
+      },
+      {
+        "zh": "2. 这是我的篮子。",
+        "template": "Here is my __________ ."
+      },
+      {
+        "zh": "3. 快看！黑莓！",
+        "template": "Look! __________ !"
+      },
+      {
+        "zh": "4. 彼得吃生菜。",
+        "template": "Peter eats __________ ."
+      },
+      {
+        "zh": "5. 这个小萝卜是红色的。",
+        "template": "This __________ is red."
+      }
+    ],
+    "prompt": "现在去完成纸质作业里的中译英：先说出来，再写下来。"
+  },
+  "audio": {
+    "b01": {
+      "src": "audio/ch01/b01v1.0.mp3",
+      "text": "Don't go into the garden!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.595083,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b02": {
+      "src": "audio/ch01/b02v1.0.mp3",
+      "text": "Yes, Mum!",
+      "speaker": "GIRLS",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.316,
+      "engine": "kokoro-onnx",
+      "voice": "bf_lily",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b03": {
+      "src": "audio/ch01/b03v1.0.mp3",
+      "text": "Here is my basket. Be good!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.028667,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b04": {
+      "src": "audio/ch01/b04v1.0.mp3",
+      "text": "Look! Blackberries! Yum!",
+      "speaker": "GIRLS",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.028667,
+      "engine": "kokoro-onnx",
+      "voice": "bf_lily",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b05": {
+      "src": "audio/ch01/b05v1.0.mp3",
+      "text": "Shh! I'm in the garden!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.355792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b06": {
+      "src": "audio/ch01/b06v1.0.mp3",
+      "text": "Lettuce! Beans! Radishes!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.250667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "b07": {
+      "src": "audio/ch01/b07v1.0.mp3",
+      "text": "Oh! My tummy! Where is the parsley?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.67375,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-garden": {
+      "src": "audio/ch01/w-gardenv1.0.mp3",
+      "text": "garden",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.769958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-garden-ex": {
+      "src": "audio/ch01/w-garden-exv1.0.mp3",
+      "text": "This is the garden.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.585958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-basket": {
+      "src": "audio/ch01/w-basketv1.0.mp3",
+      "text": "basket",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.883625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-basket-ex": {
+      "src": "audio/ch01/w-basket-exv1.0.mp3",
+      "text": "Here is my basket.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.692333,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-blackberry": {
+      "src": "audio/ch01/w-blackberryv1.0.mp3",
+      "text": "blackberry",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.902875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-blackberry-ex": {
+      "src": "audio/ch01/w-blackberry-exv1.0.mp3",
+      "text": "Look! Blackberries!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.315,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-lettuce": {
+      "src": "audio/ch01/w-lettucev1.0.mp3",
+      "text": "lettuce",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.824917,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-lettuce-ex": {
+      "src": "audio/ch01/w-lettuce-exv1.0.mp3",
+      "text": "Peter eats lettuce.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.546042,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-radish": {
+      "src": "audio/ch01/w-radishv1.0.mp3",
+      "text": "radish",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.830958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-radish-ex": {
+      "src": "audio/ch01/w-radish-exv1.0.mp3",
+      "text": "This radish is red.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.884375,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-blackberries": {
+      "src": "audio/ch01/w-blackberriesv1.0.mp3",
+      "text": "blackberries",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.99025,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "w-radishes": {
+      "src": "audio/ch01/w-radishesv1.0.mp3",
+      "text": "radishes",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.044167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-robin": {
+      "src": "audio/ch01/ui-find-robinv1.0.mp3",
+      "text": "Find the robin!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.136583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-spade": {
+      "src": "audio/ch01/ui-find-spadev1.0.mp3",
+      "text": "Find the spade!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.1975,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-mouse": {
+      "src": "audio/ch01/ui-find-mousev1.0.mp3",
+      "text": "Find the mouse!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.020875,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-cat": {
+      "src": "audio/ch01/ui-find-catv1.0.mp3",
+      "text": "Find the cat!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.086792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-butterfly": {
+      "src": "audio/ch01/ui-find-butterflyv1.0.mp3",
+      "text": "Find the butterfly!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.449375,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-find-carrot": {
+      "src": "audio/ch01/ui-find-carrotv1.0.mp3",
+      "text": "Find the carrot!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.109417,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l01": {
+      "src": "audio/ch01/l01v1.0.mp3",
+      "text": "Here are four little rabbits.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.996167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l02": {
+      "src": "audio/ch01/l02v1.0.mp3",
+      "text": "Don't go into the garden!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.595083,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l03": {
+      "src": "audio/ch01/l03v1.0.mp3",
+      "text": "Mr. McGregor is there.",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.753958,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l04": {
+      "src": "audio/ch01/l04v1.0.mp3",
+      "text": "Here is my basket. Be good!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.028667,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l05": {
+      "src": "audio/ch01/l05v1.0.mp3",
+      "text": "The girls pick blackberries.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.723792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l06": {
+      "src": "audio/ch01/l06v1.0.mp3",
+      "text": "Peter runs to the garden.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.269417,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l07": {
+      "src": "audio/ch01/l07v1.0.mp3",
+      "text": "Shh! I'm in the garden!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.355792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l08": {
+      "src": "audio/ch01/l08v1.0.mp3",
+      "text": "Lettuce! Beans! Radishes!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.250667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l09": {
+      "src": "audio/ch01/l09v1.0.mp3",
+      "text": "Peter eats and eats.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.826708,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "l10": {
+      "src": "audio/ch01/l10v1.0.mp3",
+      "text": "Oh, my tummy! Parsley?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.890125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t01": {
+      "src": "audio/ch01/t01v1.0.mp3",
+      "text": "Is this your basket?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.845667,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t02": {
+      "src": "audio/ch01/t02v1.0.mp3",
+      "text": "Yes, it is.",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.110583,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t03": {
+      "src": "audio/ch01/t03v1.0.mp3",
+      "text": "Is this your umbrella?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.88275,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "t04": {
+      "src": "audio/ch01/t04v1.0.mp3",
+      "text": "Yes, it is. Thank you!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.502292,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb1": {
+      "src": "audio/ch01/tb1v1.0.mp3",
+      "text": "Is this your basket, Mum?",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.017958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "tb2": {
+      "src": "audio/ch01/tb2v1.0.mp3",
+      "text": "Yes, it is.",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.110583,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a01": {
+      "src": "audio/ch01/a01v1.0.mp3",
+      "text": "Don't go into the garden!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.595083,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a02": {
+      "src": "audio/ch01/a02v1.0.mp3",
+      "text": "OK, Mum. Bye-bye!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.945958,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a03": {
+      "src": "audio/ch01/a03v1.0.mp3",
+      "text": "Here is my basket. Be good!",
+      "speaker": "MUM",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.028667,
+      "engine": "kokoro-onnx",
+      "voice": "bf_emma",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "a04": {
+      "src": "audio/ch01/a04v1.0.mp3",
+      "text": "Shh! I'm in the garden!",
+      "speaker": "PETER",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.355792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_lewis",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-start": {
+      "src": "audio/ch01/ui-startv1.0.mp3",
+      "text": "Let's read together!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.491792,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-well-done": {
+      "src": "audio/ch01/ui-well-donev1.0.mp3",
+      "text": "Well done!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.886583,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-try-again": {
+      "src": "audio/ch01/ui-try-againv1.0.mp3",
+      "text": "Try again!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 1.031625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-your-turn": {
+      "src": "audio/ch01/ui-your-turnv1.0.mp3",
+      "text": "Your turn!",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 0.994167,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-finish": {
+      "src": "audio/ch01/ui-finishv1.0.mp3",
+      "text": "Well done! Now it is time for your paper homework.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 3.178125,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    },
+    "ui-rest": {
+      "src": "audio/ch01/ui-restv1.0.mp3",
+      "text": "Great reading! Time for a little break.",
+      "speaker": "NARR",
+      "wordTimings": [],
+      "timingMode": "sentence",
+      "duration": 2.643625,
+      "engine": "kokoro-onnx",
+      "voice": "bm_george",
+      "bitrate": 64000,
+      "channels": 1
+    }
+  },
+  "voiceConfig": {
+    "NARR": [
+      "bm_george",
+      0.88,
+      1.0
+    ],
+    "MUM": [
+      "bf_emma",
+      0.85,
+      1.0
+    ],
+    "GIRLS": [
+      "bf_lily",
+      0.85,
+      1.2
+    ],
+    "PETER": [
+      "bm_lewis",
+      0.85,
+      1.25
+    ]
+  }
+}
